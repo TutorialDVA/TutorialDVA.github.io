@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Aggressive Charge",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Berserker.",
+        "path": "cards/playerCards/dareon/aggressive_charge.png",
+        "set": "S"
+    },
+    {
+        "name": "Balanced Defense",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reduce the stamina cost of the next card you play by 1.",
+        "path": "cards/playerCards/dareon/balanced_defense.png",
+        "set": "A1"
+    },
+    {
+        "name": "Battle Cry",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Berserker. Resilience.",
+        "path": "cards/playerCards/dareon/battle_cry.png",
+        "set": "S"
+    },
+    {
+        "name": "Blade Reflex",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "While your mastery is focused, ignore the stamina cost of this card. At the end of your action phase, return a card with slash from your sequence to your hand.",
+        "path": "cards/playerCards/dareon/blade_reflex.png",
+        "set": "D1"
+    },
+    {
+        "name": "Blade Surge",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "You may play a Defense Card from your discard pile as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/dareon/blade_surge.png",
+        "set": "E2"
+    },
+    {
+        "name": "Blind Rage",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/dareon/blind_rage.png",
+        "set": "B1"
+    },
+    {
+        "name": "Counterstrike",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Black Diamond + Red Diamond: Increase the damage the attack deals by 3.",
+        "path": "cards/playerCards/dareon/counterstrike.png",
+        "set": "S"
+    },
+    {
+        "name": "Defensive Insight",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Reveal any number of Defense Card from your hand and then draw that many cards.",
+        "path": "cards/playerCards/dareon/defensive_insight.png",
+        "set": "C1"
+    },
+    {
+        "name": "Deflecting Blade",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your deck for a card with slash and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/dareon/deflecting_blade.png",
+        "set": "S"
+    },
+    {
+        "name": "Double Slash",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If the next card you play in your sequence is a Red Diamond, reduce its stamina cost by 1.",
+        "path": "cards/playerCards/dareon/double_slash.png",
+        "set": "S"
+    },
+    {
+        "name": "Dragon Dash",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Scissors: Reduce the stamina cost of the next card you play by 1.",
+        "path": "cards/playerCards/dareon/dragon_dash.png",
+        "set": "S"
+    },
+    {
+        "name": "Dragon Descent",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Red Diamond + Black Diamond: Increase the damage this attack deals by 2 for each other card with slash in your sequence.",
+        "path": "cards/playerCards/dareon/dragon_descent.png",
+        "set": "D2"
+    },
+    {
+        "name": "Dragon Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Defense Card + Black Diamond: Draw 1.",
+        "path": "cards/playerCards/dareon/dragon_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Empty Fade",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may play a card with slash as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/dareon/empty_fade.png",
+        "set": "S"
+    },
+    {
+        "name": "Endurance",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. Scissors: Draw 2 instead.",
+        "path": "cards/playerCards/dareon/endurance.png",
+        "set": "S"
+    },
+    {
+        "name": "Engage",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Choose another player in your sector or an adjacent sector to draw 1.",
+        "path": "cards/playerCards/dareon/engage.png",
+        "set": "S"
+    },
+    {
+        "name": "Evasive Step",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your deck for a Red Diamond and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/dareon/evasive_step.png",
+        "set": "S"
+    },
+    {
+        "name": "Exhausting Defense",
+        "cost": 2,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Remove 1 struggle for each Defense Card in your hand and reduce the stamina cost of the next card you play by 1.",
+        "path": "cards/playerCards/dareon/exhausting_defense.png",
+        "set": "C2"
+    },
+    {
+        "name": "Feral Desire",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your discard pile for a card with slash and add it to your hand.",
+        "path": "cards/playerCards/dareon/feral_desire.png",
+        "set": "A2"
+    },
+    {
+        "name": "Final Breath",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If your health is critical, draw up to your hand size limit +1.",
+        "path": "cards/playerCards/dareon/final_breath.png",
+        "set": "B2"
+    },
+    {
+        "name": "Guardian Blade",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "At the end of your action phase, choose another player to draw 1 for each Red Diamond in your sequence (max: draw 3).",
+        "path": "cards/playerCards/dareon/guardian_blade.png",
+        "set": "S"
+    },
+    {
+        "name": "Guardian",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "At the end of your action phase, return a card from your sequence to your hand.",
+        "path": "cards/playerCards/dareon/guardian.png",
+        "set": "C1"
+    },
+    {
+        "name": "Heavy Clash",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Assist. Remove 1 struggle token.",
+        "path": "cards/playerCards/dareon/heavy_clash.png",
+        "set": "S"
+    },
+    {
+        "name": "Hurricane",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reduce the stamina cost of cards with slash by 1 until the end of the turn.",
+        "path": "cards/playerCards/dareon/hurricane.png",
+        "set": "D2"
+    },
+    {
+        "name": "Jumping Slice",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. If you paid with a Blue Diamond, increase the damage this attack deals by 3.",
+        "path": "cards/playerCards/dareon/jumping_slice.png",
+        "set": "S"
+    },
+    {
+        "name": "Lacerate",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Yellow Diamond + Black Diamond: This attack inflicts vulnerable.",
+        "path": "cards/playerCards/dareon/lacerate.png",
+        "set": "A2"
+    },
+    {
+        "name": "Lateral Jump",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you play a Blue Diamond in your sequence, you may discard this card from your hand to immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/dareon/lateral_jump.png",
+        "set": "E1"
+    },
+    {
+        "name": "Lateral Move",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. While this is the top card of your discard pile, reduce the stamina cost of your movements to 0.",
+        "path": "cards/playerCards/dareon/lateral_move.png",
+        "set": "A1"
+    },
+    {
+        "name": "Massive Strike",
+        "cost": 4,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Finisher. You can only play this card after a Red Diamond. Increase the damage this attack deals by 5.",
+        "path": "cards/playerCards/dareon/massive_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Momentum Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the damage this attack deals by 1 for each Blue Diamond in your discard pile.",
+        "path": "cards/playerCards/dareon/momentum_strike.png",
+        "set": "E2"
+    },
+    {
+        "name": "Precise Strike",
+        "cost": 3,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "This attack inflicts vulnerable.",
+        "path": "cards/playerCards/dareon/precise_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Pressing Strike",
+        "cost": 2,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 2.",
+        "path": "cards/playerCards/dareon/pressing_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Primal Fury",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Berserker. Draw 1 or heal 1.",
+        "path": "cards/playerCards/dareon/primal_fury.png",
+        "set": "B2"
+    },
+    {
+        "name": "Quick Attack",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you discard this card from your hand, deal your base weapon damage.",
+        "path": "cards/playerCards/dareon/quick_attack.png",
+        "set": "S"
+    },
+    {
+        "name": "Rapid Slash",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Assist.",
+        "path": "cards/playerCards/dareon/rapid_slash.png",
+        "set": "D1"
+    },
+    {
+        "name": "Reactive Guard",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Resilience. Black Diamond + Red Diamond: Draw 1.",
+        "path": "cards/playerCards/dareon/reactive_guard.png",
+        "set": "S"
+    },
+    {
+        "name": "Retreat",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Draw 2.",
+        "path": "cards/playerCards/dareon/retreat.png",
+        "set": "S"
+    },
+    {
+        "name": "Sentinel",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Resilience. When you or another player in your sector would suffer damage, you may discard this card from your hand. If you do, prevent that damage.",
+        "path": "cards/playerCards/dareon/sentinel.png",
+        "set": "C2"
+    },
+    {
+        "name": "Slash to the Flank",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If you are in a flank sector, you may play a Red Diamond as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/dareon/slash_to_the_flank.png",
+        "set": "S"
+    },
+    {
+        "name": "Swift Dodge",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reduce the stamina cost of the next card you play by 1.",
+        "path": "cards/playerCards/dareon/swift_dodge.png",
+        "set": "S"
+    },
+    {
+        "name": "Tactical Guard",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the struggle this maneuver removes by 1. While a Yellow Diamond is on top of your discard pile, it counts for the attrition check this turn.",
+        "path": "cards/playerCards/dareon/tactical_guard.png",
+        "set": "E1"
+    },
+    {
+        "name": "Thwart",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When another player removes struggle, you may discard this card from your hand to double the amount of struggle removed. Then the active player draws 1 card.",
+        "path": "cards/playerCards/dareon/thwart.png",
+        "set": "S"
+    },
+    {
+        "name": "Voice of the Dragon",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Resilience. Reduce the stamina cost of each Red Diamond you play this turn by 1.",
+        "path": "cards/playerCards/dareon/voice_of_the_dragon.png",
+        "set": "S"
+    },
+    {
+        "name": "Wrath of Blood",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If your health is critical, increase the damage this attack deals by 5.",
+        "path": "cards/playerCards/dareon/wrath_of_blood.png",
+        "set": "B1"
+    }
+]

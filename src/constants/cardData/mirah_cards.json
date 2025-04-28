@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Adrenaline Shot",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Recycle 1. Mastery: Volley 2.",
+        "path": "cards/playerCards/mirah/adrenaline_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Heavy Arrow",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may pay 2 stamina to increase the damage this attack deals by 6.",
+        "path": "cards/playerCards/mirah/heavy_arrow.png",
+        "set": "S"
+    },
+    {
+        "name": "Intuition",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you play a defense card, you may recycle this card from your hand.",
+        "path": "cards/playerCards/mirah/intuition.png",
+        "set": "S"
+    },
+    {
+        "name": "Backflip",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "You can only play this card after a red card. The next time you refill your hand, draw 1.",
+        "path": "cards/playerCards/mirah/backflip.png",
+        "set": "S"
+    },
+    {
+        "name": "Precision Draw",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. At the start of your turn, if this card is the top card of your discard pile, draw 2.",
+        "path": "cards/playerCards/mirah/precision_draw.png",
+        "set": "S"
+    },
+    {
+        "name": "Cover Fire",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. When another player would suffer attrition damage, you may discard this card from your hand to prevent that damage.",
+        "path": "cards/playerCards/mirah/cover_fire.png",
+        "set": "S"
+    },
+    {
+        "name": "Prompt Reflexes",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Draw 1.",
+        "path": "cards/playerCards/mirah/prompt_reflexes.png",
+        "set": "S"
+    },
+    {
+        "name": "Decoy",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Choose a player to draw 1.",
+        "path": "cards/playerCards/mirah/decoy.png",
+        "set": "S"
+    },
+    {
+        "name": "Swift Deflection",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you discard this card from your hand, draw a card.",
+        "path": "cards/playerCards/mirah/swift_deflection.png",
+        "set": "S"
+    },
+    {
+        "name": "Graceful Defense",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reduce the stamina cost of each defense card you play this turn by 1.",
+        "path": "cards/playerCards/mirah/graceful_defense.png",
+        "set": "S"
+    },
+    {
+        "name": "Lightning Escape",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Search your discard pile for a defense card and add it to your hand.",
+        "path": "cards/playerCards/mirah/lightning_escape.png",
+        "set": "S"
+    },
+    {
+        "name": "Sneaky Glide",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Recycle 1. The next card you play in your sequence gains stealth.",
+        "path": "cards/playerCards/mirah/sneaky_glide.png",
+        "set": "S"
+    },
+    {
+        "name": "Sharp Shot",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Mastery: The next time you play a red card this turn, deal 2 damage per weapon level.",
+        "path": "cards/playerCards/mirah/sharp_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Accurate Shot",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist.",
+        "path": "cards/playerCards/mirah/accurate_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Rapid Burst",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Assist. Volley 2.",
+        "path": "cards/playerCards/mirah/rapid_burst.png",
+        "set": "S"
+    },
+    {
+        "name": "Long Range",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "The next red card you play in your sequence gains stealth. While this card is the top card of your discard pile, prevent any attrition damage you would suffer.",
+        "path": "cards/playerCards/mirah/long_range.png",
+        "set": "S"
+    },
+    {
+        "name": "Ranged Position",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. While this card is the top card of your discard pile, it counts as a defense card in your sequence for the attrition check.",
+        "path": "cards/playerCards/mirah/ranged_position.png",
+        "set": "S"
+    },
+    {
+        "name": "Targeted Shot",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Mastery: The next time you play a red card this turn, draw 1.",
+        "path": "cards/playerCards/mirah/targeted_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Evasion",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Draw 2.",
+        "path": "cards/playerCards/mirah/evasion.png",
+        "set": "S"
+    },
+    {
+        "name": "Acrobatics",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Mastery + Volley: Draw 3 and then you may immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/mirah/acrobatics.png",
+        "set": "S"
+    },
+    {
+        "name": "Bouncing Shot",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "When you discard this card from your hand, perform volley 2.",
+        "path": "cards/playerCards/mirah/bouncing_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Silent Arrow",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Stealth. While you are the aggro player, you cannot play this card in your sequence.",
+        "path": "cards/playerCards/mirah/silent_arrow.png",
+        "set": "S"
+    },
+    {
+        "name": "Deadly Shot",
+        "cost": 3,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Increase the damage this attack deals by 5 per weapon level. Mastery: If this attack deals damage, inflict blind.",
+        "path": "cards/playerCards/mirah/deadly_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Blinding Shot",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Stealth. If the previous card in your sequence has aim, inflict blind.",
+        "path": "cards/playerCards/mirah/blinding_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Combined Assault",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Recycle 1. When a player plays red-red, you may discard this card from your hand to inflict blind.",
+        "path": "cards/playerCards/mirah/combined_assault.png",
+        "set": "C2"
+    },
+    {
+        "name": "Hail of Arrows",
+        "cost": "X",
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Finisher. Discard X cards from the top of your deck. Deal your base weapon damage for each red card discarded this way.",
+        "path": "cards/playerCards/mirah/hail_of_arrows.png",
+        "set": "D2"
+    },
+    {
+        "name": "Open Target",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When you reveal cards from your hand to deal damage as part of a stun resolution, you may reveal this card as if it were red-red.",
+        "path": "cards/playerCards/mirah/open_target.png",
+        "set": "D1"
+    },
+    {
+        "name": "Paralyzing Arrow",
+        "cost": "X",
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the struggle this maneuver removes by X (max: 5). If you pay 5 for this card, stun the monster.",
+        "path": "cards/playerCards/mirah/paralyzing_arrow.png",
+        "set": "E2"
+    },
+    {
+        "name": "Precision Shot",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Stealth. Increase the damage this attack deals by 2 per weapon level for each card with aim in your discard pile.",
+        "path": "cards/playerCards/mirah/precision_shot.png",
+        "set": "C2"
+    },
+    {
+        "name": "Refill the Quiver",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Shuffle all red cards from your discard pile into your deck. Mastery: You may shuffle your entire discard pile into your deck instead.",
+        "path": "cards/playerCards/mirah/refill_the_quiver.png",
+        "set": "B1"
+    },
+    {
+        "name": "Retreat Shot",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Perform volley 2 or recycle 1. Opening: Prevent any attrition damage you would suffer this turn.",
+        "path": "cards/playerCards/mirah/retreat_shot.png",
+        "set": "D2"
+    },
+    {
+        "name": "Waiting Game",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "At the start of the round, you may reveal this card from your hand to become the last player in player order. If you do, you may recycle any number of cards.",
+        "path": "cards/playerCards/mirah/waiting_game.png",
+        "set": "B1"
+    },
+    {
+        "name": "Double Shot",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Red + Green: Increase the damage this attack deals by 3 per weapon level.",
+        "path": "cards/playerCards/mirah/double_shot.png",
+        "set": "A1"
+    },
+    {
+        "name": "Infinite Blast",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Recycle 1 up to three times.",
+        "path": "cards/playerCards/mirah/infinite_blast.png",
+        "set": "B2"
+    },
+    {
+        "name": "Shielded Position",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "If you suffer attrition damage this turn, reduce that damage by 1 per weapon level and remove 1 struggle.",
+        "path": "cards/playerCards/mirah/shielded_position.png",
+        "set": "E2"
+    },
+    {
+        "name": "Flash Arrow",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Discard the top card of your deck. If that card is a red card, you may play it as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/mirah/flash_arrow.png",
+        "set": "A2"
+    },
+    {
+        "name": "Lateral Jump",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you play a blue card in your sequence, you may discard this card from your hand to immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/mirah/lateral_jump.png",
+        "set": "E1"
+    },
+    {
+        "name": "Arrow Snatch",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you play a red card, you may recycle this card from your hand.",
+        "path": "cards/playerCards/mirah/arrow_snatch.png",
+        "set": "A1"
+    },
+    {
+        "name": "Take Aim",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Stealth. Search your discard pile for a card with aim and add it to your hand.",
+        "path": "cards/playerCards/mirah/take_aim.png",
+        "set": "C1"
+    },
+    {
+        "name": "Final Reckoning",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Finisher. Remove 1 struggle and increase the damage this attack deals by 1 per weapon level for each red card in your discard pile.",
+        "path": "cards/playerCards/mirah/final_reckoning.png",
+        "set": "E1"
+    },
+    {
+        "name": "Midair Shot",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Stealth. When you discard this card from your hand, deal your weapon damage.",
+        "path": "cards/playerCards/mirah/midair_shot.png",
+        "set": "C1"
+    },
+    {
+        "name": "Persistence",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Recycle 1. When you discard this card from the top of your deck, add it to your hand.",
+        "path": "cards/playerCards/mirah/persistence.png",
+        "set": "D1"
+    },
+    {
+        "name": "Second Chance",
+        "cost": 2,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Discard any number of cards from your hand and then draw up to your hand size limit.",
+        "path": "cards/playerCards/mirah/second_chance.png",
+        "set": "B2"
+    },
+    {
+        "name": "Dancing Arrow",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Volley 2. This card is considered to be both blue and red.",
+        "path": "cards/playerCards/mirah/dancing_arrow.png",
+        "set": "A2"
+    }
+]

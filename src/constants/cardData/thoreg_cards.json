@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Adaptive Defense",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "While this card is the top card of your discard pile, it counts as a Defense Card in your sequence for the attrition check.",
+        "path": "cards/playerCards/thoreg/adaptive_defense.png",
+        "set": "B1"
+    },
+    {
+        "name": "Adrenaline Rush",
+        "cost": "X",
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Draw X.",
+        "path": "cards/playerCards/thoreg/adrenaline_rush.png",
+        "set": "A2"
+    },
+    {
+        "name": "Bludgeon",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. Confuse the monster.",
+        "path": "cards/playerCards/thoreg/bludgeon.png",
+        "set": "S"
+    },
+    {
+        "name": "Call of the Dragon",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. If your health is critical, draw cards until you have 5 instead.",
+        "path": "cards/playerCards/thoreg/call_of_the_dragon.png",
+        "set": "D1"
+    },
+    {
+        "name": "Charge",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Choose a player to draw 1.",
+        "path": "cards/playerCards/thoreg/charge.png",
+        "set": "S"
+    },
+    {
+        "name": "Chase",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you discard this card from your hand to generate stamina, your weapon gets +2 damage until the end of the turn.",
+        "path": "cards/playerCards/thoreg/chase.png",
+        "set": "E1"
+    },
+    {
+        "name": "Concussion",
+        "cost": 3,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 3,
+        "text": "Stun the monster.",
+        "path": "cards/playerCards/thoreg/concussion.png",
+        "set": "S"
+    },
+    {
+        "name": "Confrontation",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Remove 1 struggle. If you are the aggro player, remove 2 struggle instead.",
+        "path": "cards/playerCards/thoreg/confrontation.png",
+        "set": "C2"
+    },
+    {
+        "name": "Dashing Blow",
+        "cost": 4,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the damage this attack deals by 5. Reduce the stamina cost of this card by 1 for each card with impetus in your discard pile.",
+        "path": "cards/playerCards/thoreg/dashing_blow.png",
+        "set": "A2"
+    },
+    {
+        "name": "Decisive Effort",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Black Diamond + Red Diamond: Increase the damage the attack deals by 3.",
+        "path": "cards/playerCards/thoreg/decisive_effort.png",
+        "set": "S"
+    },
+    {
+        "name": "Deep Breath",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 3,
+        "text": "Draw 2.",
+        "path": "cards/playerCards/thoreg/deep_breath.png",
+        "set": "E2"
+    },
+    {
+        "name": "Disruption",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When another player plays Red Diamond Red Diamond in their sequence, you may discard this card from your hand to stun the monster.",
+        "path": "cards/playerCards/thoreg/disruption.png",
+        "set": "S"
+    },
+    {
+        "name": "Dragon Bane",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Taunt. The monster immediately turns to your sector and your weapon gets +2 damage until the end of this turn.",
+        "path": "cards/playerCards/thoreg/dragon_bane.png",
+        "set": "B2"
+    },
+    {
+        "name": "Endeavour",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Recycle 2.",
+        "path": "cards/playerCards/thoreg/endeavour.png",
+        "set": "S"
+    },
+    {
+        "name": "Enrage",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your deck for a Red Diamond and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/thoreg/enrage.png",
+        "set": "S"
+    },
+    {
+        "name": "Evasive Action",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Take a strain token unless your mastery is focused.",
+        "path": "cards/playerCards/thoreg/evasive_action.png",
+        "set": "S"
+    },
+    {
+        "name": "Exhausting Strike",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. Increase the struggle this maneuver removes by 1.",
+        "path": "cards/playerCards/thoreg/exhausting_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "For Alborea!",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Draw 1 for each card with impetus in your discard pile.",
+        "path": "cards/playerCards/thoreg/for_alborea.png",
+        "set": "D2"
+    },
+    {
+        "name": "Frontal Assault",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Choose a player to draw 1. If you are in the front sector, they draw 2 instead.",
+        "path": "cards/playerCards/thoreg/frontal_assault.png",
+        "set": "S"
+    },
+    {
+        "name": "Grace",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reduce the stamina cost of each Defense Card you play this turn by 1.",
+        "path": "cards/playerCards/thoreg/grace.png",
+        "set": "C1"
+    },
+    {
+        "name": "Heavy Smash",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Remove 1 struggle. Scissors: Remove 3 struggle instead.",
+        "path": "cards/playerCards/thoreg/heavy_smash.png",
+        "set": "S"
+    },
+    {
+        "name": "Impulse",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your deck for a card with impetus and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/thoreg/impulse.png",
+        "set": "D1"
+    },
+    {
+        "name": "Impressive Strike",
+        "cost": 2,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If you have any strain tokens, stun or confuse the monster.",
+        "path": "cards/playerCards/thoreg/impressive_strike.png",
+        "set": "A1"
+    },
+    {
+        "name": "Iron Will",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. If you paid with a Blue Diamond, draw 2 instead.",
+        "path": "cards/playerCards/thoreg/iron_will.png",
+        "set": "S"
+    },
+    {
+        "name": "Ironblast",
+        "cost": 3,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the damage this attack deals by 2. Opening: This attack inflicts vulnerable.",
+        "path": "cards/playerCards/thoreg/ironblast.png",
+        "set": "S"
+    },
+    {
+        "name": "Judgement",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When a player would suffer attrition damage and you are in the front sector, you may discard this card from your hand to prevent that damage and remove struggle equal to the current attrition level.",
+        "path": "cards/playerCards/thoreg/judgement.png",
+        "set": "C1"
+    },
+    {
+        "name": "Knockout",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Red Diamond + Black Diamond: Stun the monster.",
+        "path": "cards/playerCards/thoreg/knockout.png",
+        "set": "S"
+    },
+    {
+        "name": "Leverage",
+        "cost": 3,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Draw cards equal to the current amount of struggle tokens on the monster (max: 5 cards).",
+        "path": "cards/playerCards/thoreg/leverage.png",
+        "set": "S"
+    },
+    {
+        "name": "Limitless Stamina",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When you discard this card to generate stamina for a Red Diamond, it generates 4 stamina.",
+        "path": "cards/playerCards/thoreg/limitless_stamina.png",
+        "set": "E1"
+    },
+    {
+        "name": "Mighty Strain",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 3,
+        "text": "When you discard this card from your hand, take a strain token.",
+        "path": "cards/playerCards/thoreg/mighty_strain.png",
+        "set": "S"
+    },
+    {
+        "name": "Perseverance",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1.",
+        "path": "cards/playerCards/thoreg/perseverance.png",
+        "set": "S"
+    },
+    {
+        "name": "Rapid Blow",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When a behavior card is revealed, you may discard this card from your hand to cancel the effects of that card.",
+        "path": "cards/playerCards/thoreg/rapid_blow.png",
+        "set": "S"
+    },
+    {
+        "name": "Rumbling Impact",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Confuse the monster. Scissors: Increase the damage this attack deals by 1 for each exposed monster side.",
+        "path": "cards/playerCards/thoreg/rumbling_impact.png",
+        "set": "B1"
+    },
+    {
+        "name": "Sharp Reflexes",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When a behavior card is revealed, you may discard this card from your hand to immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/thoreg/sharp_reflexes.png",
+        "set": "S"
+    },
+    {
+        "name": "Skull Crusher",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Black Diamond + Red Diamond: If you are in the front sector, stun the monster and increase the damage the attack deals by 2.",
+        "path": "cards/playerCards/thoreg/skull_crusher.png",
+        "set": "B2"
+    },
+    {
+        "name": "Sledgehammer",
+        "cost": "X",
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "You can only play this card after a Blue Diamond. Increase the damage this attack deals by X (max increase: 7).",
+        "path": "cards/playerCards/thoreg/sledgehammer.png",
+        "set": "S"
+    },
+    {
+        "name": "Stamina Boost",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Reduce the stamina cost of the next Defense Card you play in your sequence by 1. When you discard this card to generate stamina for a Red Diamond and your mastery is focused, it generates 4 stamina.",
+        "path": "cards/playerCards/thoreg/stamina_boost.png",
+        "set": "S"
+    },
+    {
+        "name": "Step Back",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Finisher. Discard a strain token.",
+        "path": "cards/playerCards/thoreg/step_back.png",
+        "set": "A1"
+    },
+    {
+        "name": "Stormstrike",
+        "cost": "X",
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Finisher. Increase the damage this attack deals by X (max increase: 7). If you pay 6 or more for this card, confuse the monster.",
+        "path": "cards/playerCards/thoreg/stormstrike.png",
+        "set": "E2"
+    },
+    {
+        "name": "Tackle",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When another player pays the stamina cost of a card, you may discard this card from your hand. If you do, reduce that stamina cost by 1 and that player's card gains stealth.",
+        "path": "cards/playerCards/thoreg/tackle.png",
+        "set": "S"
+    },
+    {
+        "name": "Tear Down",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If the monster has 0 struggle, increase the damage this attack deals by 5. Otherwise, remove 2 struggle.",
+        "path": "cards/playerCards/thoreg/tear_down.png",
+        "set": "D2"
+    },
+    {
+        "name": "Tenacity",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "This card does not count towards your hand size limit.",
+        "path": "cards/playerCards/thoreg/tenacity.png",
+        "set": "S"
+    },
+    {
+        "name": "Thunderous Voice",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. Remove 1 struggle. If you are the aggro player, remove 2 struggle instead.",
+        "path": "cards/playerCards/thoreg/thunderous_voice.png",
+        "set": "C2"
+    },
+    {
+        "name": "Whirlwind",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Assist. Black Diamond + Blue Diamond + Red Diamond: Increase the damage the attack deals by 3.",
+        "path": "cards/playerCards/thoreg/whirlwind.png",
+        "set": "S"
+    }
+]
