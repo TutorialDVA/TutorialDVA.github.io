@@ -18,33 +18,8 @@ import RedoIcon from '@mui/icons-material/Redo';
 import { DeckModal } from './components/modals/DeckModal';
 import { getCharacter, submitCharacter } from './api/characterApi';
 import { BannerMessage } from './components/BannerMessage';
-
-function useQueryParam(key: string): [string, React.Dispatch<React.SetStateAction<string>>] {
-  // Get the initial value from the URL
-  const getQueryParam = () => {
-    const searchParams = new URLSearchParams(window.location.search);
-    return searchParams.get(key) || '';
-  };
-
-  const [value, setValue] = useState(getQueryParam());
-
-  // Update URL when value changes
-  useEffect(() => {
-    const searchParams = new URLSearchParams(window.location.search);
-
-    if (value) {
-      searchParams.set(key, value);
-    } else {
-      searchParams.delete(key);
-    }
-
-    const newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
-    // eslint-disable-next-line no-restricted-globals
-    history.pushState(null, '', newRelativePathQuery);
-  }, [key, value]);
-
-  return [value, setValue];
-}
+import { useQueryParam } from './hooks/queryParam';
+import { SaveModal } from './components/modals/SaveModal';
 
 function App() {
   const dispatch = useAppDispatch();
@@ -89,6 +64,7 @@ function App() {
       const response = await submitCharacter(characterData);
       setSaveState(_.get(response, 'id', ''));
       dispatch(createBanner({ bannerMessage: 'Save successful', bannerSeverity: 'success' }))
+      dispatch(openModal('saveModal'))
     } catch {
       dispatch(createBanner({ bannerMessage: 'Save failed. Please wait a moment and try again', bannerSeverity: 'error' }))
     } finally {
@@ -224,6 +200,7 @@ function App() {
       <PotionModal slot={1} />
       <PotionModal slot={2} />
       <ItemModal />
+      <SaveModal />
     </div>
   );
 }
