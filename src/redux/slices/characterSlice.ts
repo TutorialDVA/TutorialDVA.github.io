@@ -66,6 +66,7 @@ export interface CharacterState {
     potions: Item[];
     weapon: Weapon;
     deck: DeepEqualSet<PlayerCard>;
+    changedCharacter: boolean;
 }
 
 interface AddPotionPayload {
@@ -116,7 +117,8 @@ const initialState: CharacterState = {
         "text": "Blue: If you are in the front sector, increase the struggle the maneuver removes by 1.",
         "path": "cards/weapons/level1/hammer.png"
     },
-    deck: serializeDeepEqualSet(new DeepEqualSet<PlayerCard>)
+    deck: serializeDeepEqualSet(new DeepEqualSet<PlayerCard>),
+    changedCharacter: false
 }
 
 export const characterSlice = createSlice({
@@ -133,11 +135,13 @@ export const characterSlice = createSlice({
                 mastery: action.payload.mastery,
                 potions: action.payload.potions,
                 weapon: action.payload.weapon,
-                item: action.payload.item
+                item: action.payload.item,
+                changedCharacter: false
             }
         },
         setCharacter: (state, action: PayloadAction<string>) => {
             state.character = action.payload;
+            state.changedCharacter = true;
         },
         setHelm: (state, action: PayloadAction<Helm>) => {
             state.helm = action.payload;
@@ -196,7 +200,8 @@ export const characterSlice = createSlice({
             currentDeck.clear()
             return {
                 ...state,
-                deck: serializeDeepEqualSet(currentDeck)
+                deck: serializeDeepEqualSet(currentDeck),
+                changedCharacter: false
             }
         },
     },

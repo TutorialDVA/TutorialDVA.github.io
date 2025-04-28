@@ -78,6 +78,7 @@ export const DeckModal = () => {
     const deckModal = useModal('deckModal');
     const baseDeck = deckModal.items;
     const character = useAppSelector((state) => state.character.character);
+    const changedCharacter = useAppSelector((state) => state.character.changedCharacter);
     const textFilter = useAppSelector((state) => state.form.textFilter);
     const weapon = useAppSelector((state) => state.character.weapon);
     const deck: DeepEqualSet<PlayerCard> = useAppSelector((state) => selectDeck(state)) as DeepEqualSet<PlayerCard>
@@ -138,14 +139,16 @@ export const DeckModal = () => {
     }) as PlayerCard[], ['set', 'color']);
 
     useEffect(() => {
-        const allCardsForCharacter = _.filter(_.get(baseDeck, character, baseDeck), (card: PlayerCard) => {
-            return _.get(card, 'set') === 'S'
-        }) as PlayerCard[];
-        dispatch(resetDeck());
-        _.forEach(allCardsForCharacter, (card) => {
-            dispatch(addCardToDeck(card));
-        })
-    }, [character])
+        if (changedCharacter) {
+            const allCardsForCharacter = _.filter(_.get(baseDeck, character, baseDeck), (card: PlayerCard) => {
+                return _.get(card, 'set') === 'S'
+            }) as PlayerCard[];
+            dispatch(resetDeck());
+            _.forEach(allCardsForCharacter, (card) => {
+                dispatch(addCardToDeck(card));
+            })
+        }
+    }, [changedCharacter])
 
 
     const rows = [
