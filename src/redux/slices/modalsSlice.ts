@@ -91,6 +91,12 @@ const initialState: ModalsState = {
             thoreg: thoreg_cards,
             heleren: heleren_cards
         }
+    },
+    saveModal: {
+        isOpen: false,
+        heading: 'Save Complete',
+        content: '',
+        items: []
     }
 }
 

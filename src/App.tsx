@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import { useState, useEffect } from 'react'
-import { Button, Grid } from '@mui/material';
+import { Alert, Button, Grid } from '@mui/material';
 import './App.css';
 import { InteractiveImage } from './components/InteractiveImage';
 import ResponsiveAppBar, { Page } from './components/ResponsiveAppBar';
@@ -12,11 +12,12 @@ import { HelmModal } from './components/modals/HelmModal';
 import { MasteryModal } from './components/modals/MasteryModal';
 import { PotionModal } from './components/modals/PotionModal';
 import { ItemModal } from './components/modals/ItemModal';
-import { Armor, CharacterState, loadCharacter, setArmor, setCharacter, setLevel } from './redux/slices/characterSlice';
-import { toggleMasterySide } from './redux/slices/formSlice';
+import { CharacterState, loadCharacter, setCharacter, setLevel } from './redux/slices/characterSlice';
+import { createBanner, toggleMasterySide } from './redux/slices/formSlice';
 import RedoIcon from '@mui/icons-material/Redo';
 import { DeckModal } from './components/modals/DeckModal';
 import { getCharacter, submitCharacter } from './api/characterApi';
+import { BannerMessage } from './components/BannerMessage';
 
 function useQueryParam(key: string): [string, React.Dispatch<React.SetStateAction<string>>] {
   // Get the initial value from the URL
@@ -73,6 +74,7 @@ function App() {
         //dispatch(setArmor(_.get(character_data, 'armor', {} as Armor)));
         dispatch(loadCharacter(character_data))
       } catch (err) {
+        dispatch(createBanner({ bannerMessage: 'Failed to load character data. Please wait a moment and try again', bannerSeverity: 'error' }))
       } finally {
         setLoading(false);
       }
@@ -82,8 +84,16 @@ function App() {
   }, [saveState])
 
   const saveCharacter = async (characterData: CharacterState) => {
-    const response = await submitCharacter(characterData);
-    setSaveState(_.get(response, 'id', ''))
+    try {
+      setLoading(true);
+      const response = await submitCharacter(characterData);
+      setSaveState(_.get(response, 'id', ''));
+      dispatch(createBanner({ bannerMessage: 'Save successful', bannerSeverity: 'success' }))
+    } catch {
+      dispatch(createBanner({ bannerMessage: 'Save failed. Please wait a moment and try again', bannerSeverity: 'error' }))
+    } finally {
+      setLoading(false);
+    }
   }
 
   const pages = [
@@ -102,6 +112,7 @@ function App() {
   return (
     <div className="App">
       <ResponsiveAppBar pages={pages as Page[]} />
+      <BannerMessage />
       <Grid container spacing={2} style={{ alignItems: 'center', marginLeft: '20px', marginRight: '20px' }}>
         <Grid size={{ xs: 3, md: 2 }}>
           <div onClick={() => dispatch(openModal('deckModal'))}>

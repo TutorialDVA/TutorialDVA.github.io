@@ -65,7 +65,7 @@ function ResponsiveAppBar(props: ResponsiveAppBarProps) {
     };
 
     return (
-        <AppBar position="static" style={{ marginBottom: '20px' }}>
+        <AppBar position="static">
             <Container maxWidth="xl">
                 <Toolbar disableGutters>
                     <Typography
@@ -227,7 +227,7 @@ function ResponsiveAppBar(props: ResponsiveAppBarProps) {
                                     onClick={page.onClick}
                                     sx={{ my: 2, color: 'white', display: 'block' }}
                                 >
-                                    {page.name} {page.loading ? <CircularProgress /> : null}
+                                    {page.name} {page.loading ? <CircularProgress color='secondary' size="30px" /> : null}
                                 </Button>
                             }
                         })}

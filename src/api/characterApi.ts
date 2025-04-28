@@ -2,7 +2,7 @@ import axios from 'axios';
 import { CharacterState } from '../redux/slices/characterSlice';
 
 // Base URL for your API
-const API_URL = 'https://arixal.pythonanywhere.com/api';
+const API_URL = 'http://localhost:5050/api';
 
 export const submitCharacter = async (characterData: CharacterState) => {
     try {

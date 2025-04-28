@@ -91,7 +91,7 @@ export const DeckModal = () => {
         'C1',
         'C2',
         'D1',
-        'D1',
+        'D2',
         'E1',
         'E2'
     ]
@@ -190,14 +190,14 @@ export const DeckModal = () => {
                                 </Select>
                             </FormControl>
                             <FormControl sx={{ m: 1, width: 300 }}>
-                                <InputLabel id="demo-multiple-name-label">Color</InputLabel>
+                                <InputLabel id="demo-multiple-name-label">Set</InputLabel>
                                 <Select
                                     labelId="demo-multiple-name-label"
                                     id="demo-multiple-name"
                                     multiple
                                     value={selectedSets}
                                     onChange={handleSetChange}
-                                    input={<OutlinedInput label="Name" />}
+                                    input={<OutlinedInput label="Set" />}
                                     MenuProps={MenuProps}
                                 >
                                     {sets.map((set) => (
