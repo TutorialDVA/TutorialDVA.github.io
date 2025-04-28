@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Aggro Strike",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Increase the damage this attack deals by 1♦ for each ♥ in your discard pile.",
+        "path": "cards/playerCards/ljonar/aggro_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Agility",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "If you paid with a ♢, draw 2.",
+        "path": "cards/playerCards/ljonar/agility.png",
+        "set": "S"
+    },
+    {
+        "name": "Anticipate",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you would suffer ♠ from a behavior card effect, you may discard this card from your hand to prevent that damage.",
+        "path": "cards/playerCards/ljonar/anticipate.png",
+        "set": "S"
+    },
+    {
+        "name": "Assistance",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. While this card is the top card of your discard pile, reduce the stamina cost of any ◆ other players play by 1.",
+        "path": "cards/playerCards/ljonar/assistance.png",
+        "set": "B2"
+    },
+    {
+        "name": "Attack Plan",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Assist. While this card is the top card of your discard pile, any damage dealt to the monster by any source is increased by 1♦.",
+        "path": "cards/playerCards/ljonar/attack_plan.png",
+        "set": "S"
+    },
+    {
+        "name": "Battle Trance",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Taunt. ✘: Draw 2.",
+        "path": "cards/playerCards/ljonar/battle_trance.png",
+        "set": "S"
+    },
+    {
+        "name": "Beyond Limits",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. You may suffer 1♦ damage. If you do, increase the damage this attack deals by 2♦ and choose a player to draw 1.",
+        "path": "cards/playerCards/ljonar/beyond_limits.png",
+        "set": "S"
+    },
+    {
+        "name": "Bulwark",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the struggle this maneuver removes by 1. When another player would suffer ♠ and you are in the front sector, you may discard this card from your hand to prevent that damage. If you do, you and that player draw 1.",
+        "path": "cards/playerCards/ljonar/bulwark.png",
+        "set": "S"
+    },
+    {
+        "name": "Concentrated Attack",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Choose another player. Increase the damage this attack deals by 1♦ for each ◆ in that player's discard pile. If this attack inflicts a wound, inflict vulnerable.",
+        "path": "cards/playerCards/ljonar/concentrated_attack.png",
+        "set": "S"
+    },
+    {
+        "name": "Coordinated Attack",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. Choose a player to draw 1.",
+        "path": "cards/playerCards/ljonar/coordinated_attack.png",
+        "set": "B1"
+    },
+    {
+        "name": "Counterattack",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "When you suffer ♠, you may discard this card from your hand to deal 3♦ damage.",
+        "path": "cards/playerCards/ljonar/counterattack.png",
+        "set": "S"
+    },
+    {
+        "name": "Drawn To Danger",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. Increase the struggle this maneuver removes by 1.",
+        "path": "cards/playerCards/ljonar/drawn_to_danger.png",
+        "set": "S"
+    },
+    {
+        "name": "Eye of the Storm",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reveal any number of cards with assist from your hand. Then choose another player to draw that many cards.",
+        "path": "cards/playerCards/ljonar/eye_of_the_storm.png",
+        "set": "B2"
+    },
+    {
+        "name": "Feint",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you discard this card from your hand, draw 1.",
+        "path": "cards/playerCards/ljonar/feint.png",
+        "set": "S"
+    },
+    {
+        "name": "Golden Opportunity",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. Choose a player to reveal up to 2 ◆ from their hand and deal their weapon damage for each card they revealed this way.",
+        "path": "cards/playerCards/ljonar/golden_opportunity.png",
+        "set": "C2"
+    },
+    {
+        "name": "Guardian Shield",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When the monster would unleash, you may discard this card from your hand. If you do and you are in the front sector, prevent that unleash damage (no player suffers damage).",
+        "path": "cards/playerCards/ljonar/guardian_shield.png",
+        "set": "E2"
+    },
+    {
+        "name": "Immolate",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Choose another player to draw 1. You may suffer ♠. If you do, all other players draw 1 instead.",
+        "path": "cards/playerCards/ljonar/immolate.png",
+        "set": "S"
+    },
+    {
+        "name": "Last Breath",
+        "cost": 2,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Resilience. Deal damage to the monster equal to the damage you currently sustain.",
+        "path": "cards/playerCards/ljonar/last_breath.png",
+        "set": "S"
+    },
+    {
+        "name": "Mettle",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "If your health is critical, this card counts as ◆◆ for the attrition check this turn.",
+        "path": "cards/playerCards/ljonar/mettle.png",
+        "set": "A1"
+    },
+    {
+        "name": "Momentum",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "◆◇: Search your discard pile for a ◆ and add it to your hand.",
+        "path": "cards/playerCards/ljonar/momentum.png",
+        "set": "S"
+    },
+    {
+        "name": "Monstrous Effort",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Resilience. If your health is critical, you can play the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/ljonar/monstrous_effort.png",
+        "set": "A2"
+    },
+    {
+        "name": "Outflank",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "At the start of another player's turn, you may discard this card from your hand. If you do, immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/ljonar/outflank.png",
+        "set": "C2"
+    },
+    {
+        "name": "Over Here!",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. You may suffer ♠. If you do, choose a player to recycle up to 2 cards.",
+        "path": "cards/playerCards/ljonar/over_here.png",
+        "set": "D1"
+    },
+    {
+        "name": "Perseverance",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Draw 1.",
+        "path": "cards/playerCards/ljonar/perseverance.png",
+        "set": "S"
+    },
+    {
+        "name": "Pulsating Fury",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If you are the aggro player, draw cards equal to the current stance number.",
+        "path": "cards/playerCards/ljonar/pulsating_fury.png",
+        "set": "E1"
+    },
+    {
+        "name": "Push",
+        "cost": 2,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Opening: Draw 2.",
+        "path": "cards/playerCards/ljonar/push.png",
+        "set": "S"
+    },
+    {
+        "name": "Rally",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Choose a player to draw 1 or immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/ljonar/rally.png",
+        "set": "C1"
+    },
+    {
+        "name": "Rapid Dash",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Taunt. While this card is the top card of your discard pile, all other players' weapons have +1♦ damage.",
+        "path": "cards/playerCards/ljonar/rapid_dash.png",
+        "set": "S"
+    },
+    {
+        "name": "Retribution",
+        "cost": 3,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the damage this attack deals by X where X is the damage you currently sustain.",
+        "path": "cards/playerCards/ljonar/retribution.png",
+        "set": "A2"
+    },
+    {
+        "name": "Sacrifice",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. Resilience. When the monster would gain struggle, you may suffer ♠ and discard this card from your hand to prevent that struggle gain.",
+        "path": "cards/playerCards/ljonar/sacrifice.png",
+        "set": "D1"
+    },
+    {
+        "name": "Shield Block",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When a behavior card is revealed, you may discard this card from your hand to cancel the effects of that behavior card and confuse the monster.",
+        "path": "cards/playerCards/ljonar/shield_block.png",
+        "set": "S"
+    },
+    {
+        "name": "Shield Dance",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "While your mastery is focused, ignore the stamina cost of this card. ◆◇: Increase the damage this attack deals by 3♦.",
+        "path": "cards/playerCards/ljonar/shield_dance.png",
+        "set": "S"
+    },
+    {
+        "name": "Shield Smash",
+        "cost": 2,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Deal your weapon damage. You may choose to suffer ♠ to deal double that damage instead.",
+        "path": "cards/playerCards/ljonar/shield_smash.png",
+        "set": "D2"
+    },
+    {
+        "name": "Shield Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase the damage this attack deals by 1♦ for each ◆ in your discard pile.",
+        "path": "cards/playerCards/ljonar/shield_strike.png",
+        "set": "D2"
+    },
+    {
+        "name": "Shield Wall",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. When another player in your sector would suffer ♠, if this card is the top card of your discard pile, you may suffer that ♠ instead.",
+        "path": "cards/playerCards/ljonar/shield_wall.png",
+        "set": "E2"
+    },
+    {
+        "name": "Shielded Strike",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "◆◇: Remove 2 struggle. ✘: Increase the damage this attack deals by 1♦ for each ♢ in your sequence.",
+        "path": "cards/playerCards/ljonar/shielded_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Snare",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "If you avoid attrition damage this turn, deal your weapon damage for each ♢ in your sequence.",
+        "path": "cards/playerCards/ljonar/snare.png",
+        "set": "E1"
+    },
+    {
+        "name": "Stamina Surge",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you discard this card to generate stamina for a ◆, it generates ♦♦. ✘: Reduce the stamina cost of the next card you play in your sequence by 1.",
+        "path": "cards/playerCards/ljonar/stamina_surge.png",
+        "set": "S"
+    },
+    {
+        "name": "Surround",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "This maneuver removes 1 struggle for each occupied sector.",
+        "path": "cards/playerCards/ljonar/surround.png",
+        "set": "S"
+    },
+    {
+        "name": "Tactical Evade",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Search your discard pile for a card with assist and add it to your hand.",
+        "path": "cards/playerCards/ljonar/tactical_evade.png",
+        "set": "B1"
+    },
+    {
+        "name": "Teamwork",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "While another player is paying the stamina cost of a card, you may discard this card from your hand in order to reduce that cost by 2.",
+        "path": "cards/playerCards/ljonar/teamwork.png",
+        "set": "C1"
+    },
+    {
+        "name": "Tempered Pain",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Resilience. You may suffer 1♦ damage to draw 1.",
+        "path": "cards/playerCards/ljonar/tempered_pain.png",
+        "set": "A1"
+    },
+    {
+        "name": "Tempo",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "◇◆: Remove 1 struggle.",
+        "path": "cards/playerCards/ljonar/tempo.png",
+        "set": "S"
+    },
+    {
+        "name": "Undaunted Charge",
+        "cost": 2,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Remove 2 struggle. ✘: Confuse the monster. All other players draw 1.",
+        "path": "cards/playerCards/ljonar/undaunted_charge.png",
+        "set": "S"
+    }
+]

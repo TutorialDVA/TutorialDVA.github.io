@@ -1,0 +1,200 @@
+{
+    "helm_cards": [
+      {
+        "name": "Crystal Helm",
+        "level": 1,
+        "hp": 4,
+        "text": "Start: Look at the top 2 cards of your deck.",
+        "path": "cards/helms/1/crystal_helm.png"
+      },
+      {
+        "name": "Thunder Helm",
+        "level": 1,
+        "hp": 4,
+        "text": "When you discard a ◆ from your hand to generate stamina, deal 1 damage.",
+        "path": "cards/helms/1/thunder_helm.png"
+      },
+      {
+        "name": "Ironleaf Helm",
+        "level": 1,
+        "hp": 5,
+        "text": "When the monster suffers a wound, you may search your discard pile for a ◆ and shuffle it into your deck.",
+        "path": "cards/helms/1/ironleaf_helm.png"
+      },
+      {
+        "name": "Base Helm",
+        "level": 1,
+        "hp": 4,
+        "text": "",
+        "path": "cards/helms/1/base_helm.png"
+      },
+      {
+        "name": "Reefbound Helm",
+        "level": 1,
+        "hp": 5,
+        "text": "At the end of your action phase, you may reveal a ◇ from your hand. If you do, search your discard pile for a ☸ and shuffle it into your deck.",
+        "path": "cards/helms/1/reefbound_helm.png"
+      },
+      {
+        "name": "Iron Helm",
+        "level": 1,
+        "hp": 5,
+        "text": "When you would suffer damage that would knock you down, prevent that damage (max: once per game).",
+        "path": "cards/helms/1/iron_helm.png"
+      },
+      {
+        "name": "Spined Helm",
+        "level": 1,
+        "hp": 4,
+        "text": "Start: Recycle 1.",
+        "path": "cards/helms/1/spined_helm.png"
+      },
+      {
+        "name": "Frost Helm",
+        "level": 1,
+        "hp": 4,
+        "text": "During the monster upkeep phase, if you are in the front sector, you may reveal a ◇ from your hand to reduce the number of struggle the monster gains by 1 (only 1 player can trigger this ability each round).",
+        "path": "cards/helms/1/frost_helm.png"
+      },
+      {
+        "name": "Totemic Helm",
+        "level": 1,
+        "hp": 5,
+        "text": "While a player in an adjacent sector is paying the stamina cost of a card, you may reveal 2 cards of that same color from your hand. If you do, reduce that stamina cost by 1 (max: once per round).",
+        "path": "cards/helms/1/totemic_helm.png"
+      },
+      {
+        "name": "Red Scale Helm",
+        "level": 1,
+        "hp": 5,
+        "text": "Action: Discard the top card of your deck. If that card is a ◆, add it to your hand (max: once per turn).",
+        "path": "cards/helms/1/red_scale_helm.png"
+      },
+      {
+        "name": "Thunder Helm",
+        "level": 2,
+        "hp": 9,
+        "text": "When you discard a ◆ from your hand to generate stamina, deal 2 damage.",
+        "path": "cards/helms/2/thunder_helm.png"
+      },
+      {
+        "name": "Red Scale Helm",
+        "level": 2,
+        "hp": 9,
+        "text": "Action: Discard the top card of your deck. If that card is a ◆, add it to your hand (max: twice per turn).",
+        "path": "cards/helms/2/red_scale_helm.png"
+      },
+      {
+        "name": "Frost Helm",
+        "level": 2,
+        "hp": 9,
+        "text": "During the monster upkeep phase, if you are in the front sector, reduce the number of struggle the monster gains by 1 (only 1 player can trigger this ability each round).",
+        "path": "cards/helms/2/frost_helm.png"
+      },
+      {
+        "name": "Iron Helm",
+        "level": 2,
+        "hp": 11,
+        "text": "When you would suffer damage that would knock you down, prevent that damage and then draw 1 (max: once per game).",
+        "path": "cards/helms/2/iron_helm.png"
+      },
+      {
+        "name": "Crystal Helm",
+        "level": 2,
+        "hp": 8,
+        "text": "Start: Look at the top 3 cards of your deck and reorder them as you choose.",
+        "path": "cards/helms/2/crystal_helm.png"
+      },
+      {
+        "name": "Ironleaf Helm",
+        "level": 2,
+        "hp": 9,
+        "text": "When the monster suffers a wound, you may search your discard pile for a ✦ and place it on top of your deck.",
+        "path": "cards/helms/2/ironleaf_helm.png"
+      },
+      {
+        "name": "Spined Helm",
+        "level": 2,
+        "hp": 8,
+        "text": "Start: You may discard a card with a printed stamina cost of 2 or higher from your hand. If you do, draw 2.",
+        "path": "cards/helms/2/spined_helm.png"
+      },
+      {
+        "name": "Reefbound Helm",
+        "level": 2,
+        "hp": 10,
+        "text": "At the end of your action phase, you may reveal a ◇ from your hand. If you do, you may either heal 2 damage or search your discard pile for a card of your choice and shuffle it into your deck.",
+        "path": "cards/helms/2/reefbound_helm.png"
+      },
+      {
+        "name": "Totemic Helm",
+        "level": 2,
+        "hp": 9,
+        "text": "While another player is paying the stamina cost of a card, you may reveal 2 cards of that same color from your hand. If you do, reduce that stamina cost by 1 (max: once per round).",
+        "path": "cards/helms/2/totemic_helm.png"
+      },
+      {
+        "name": "Thunder Helm",
+        "level": 3,
+        "hp": 15,
+        "text": "When you discard a ◆ from your hand to generate stamina, deal 4 damage.",
+        "path": "cards/helms/3/thunder_helm.png"
+      },
+      {
+        "name": "Spined Helm",
+        "level": 3,
+        "hp": 12,
+        "text": "Start: You may discard a stamina token or a card with a printed stamina cost of 2 or higher from your hand. If you do, draw 2.",
+        "path": "cards/helms/3/spined_helm.png"
+      },
+      {
+        "name": "Reefbound Helm",
+        "level": 3,
+        "hp": 14,
+        "text": "At the end of your action phase, you may reveal a ◇ from your hand. If you do, you may either heal 3 damage or search your discard pile for a card of your choice and place it on top of your deck.",
+        "path": "cards/helms/3/reefbound_helm.png"
+      },
+      {
+        "name": "Totemic Helm",
+        "level": 3,
+        "hp": 13,
+        "text": "While another player is paying the stamina cost of a card, you may reveal 2 cards of that same color from your hand. If you do, draw 1 and reduce that stamina cost by 1 (max: once per round).",
+        "path": "cards/helms/3/totemic_helm.png"
+      },
+      {
+        "name": "Iron Helm",
+        "level": 3,
+        "hp": 15,
+        "text": "When you would suffer damage that would knock you down, prevent that damage, draw 1 and deal your weapon damage (max: once per game).",
+        "path": "cards/helms/3/iron_helm.png"
+      },
+      {
+        "name": "Red Scale Helm",
+        "level": 3,
+        "hp": 15,
+        "text": "While your health is critical, your weapon has +3 damage. Action: Discard the top card of your deck. If that card is a ◆, add it to your hand (max: twice per turn).",
+        "path": "cards/helms/3/red_scale_helm.png"
+      },
+      {
+        "name": "Frost Helm",
+        "level": 3,
+        "hp": 14,
+        "text": "During the monster upkeep phase, reduce the number of struggle the monster gains by 1 (only 1 player can trigger this ability each round).",
+        "path": "cards/helms/3/frost_helm.png"
+      },
+      {
+        "name": "Ironleaf Helm",
+        "level": 3,
+        "hp": 13,
+        "text": "When the monster suffers a wound, you may search your discard pile for a card of your choice and add it to your hand.",
+        "path": "cards/helms/3/ironleaf_helm.png"
+      },
+      {
+        "name": "Crystal Helm",
+        "level": 3,
+        "hp": 13,
+        "text": "Start: Name a color and then look at the top 3 cards of your deck. You may add one of those cards to your hand if it matches the color named. Return the other cards to the top of your deck in any order.",
+        "path": "cards/helms/3/crystal_helm.png"
+      }
+    ]
+  }

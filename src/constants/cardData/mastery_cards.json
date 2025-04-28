@@ -1,0 +1,314 @@
+{
+  "piercing_dash.png": {
+    "name": "PIERCING DASH",
+    "path": "cards/masteries/fronts/piercing_dash.png",
+    "back_path": "cards/masteries/backs/piercing_dash.png",
+    "symbol": "",
+    "front_text": "When you overrun the monster, place a counter on this card,",
+    "back_text": "When you overrun the monster, deal your base weapon damage or draw 1,",
+    "character": "karah"
+  },
+  "tactician.png": {
+    "name": "TACTICIAN",
+    "path": "cards/masteries/fronts/tactician.png",
+    "back_path": "cards/masteries/backs/tactician.png",
+    "symbol": "",
+    "front_text": ">: Place a counter on this card.",
+    "back_text": "While you are in the front sector, al! monster sides are considered to be exposed. : Choose a sector. Players in that sector may draw 1 or immediately move without paying any stamina ne Re ee",
+    "character": "ljonar"
+  },
+  "fierce_guard.png": {
+    "name": "FIERCE GUARD",
+    "path": "cards/masteries/fronts/fierce_guard.png",
+    "back_path": "cards/masteries/backs/fierce_guard.png",
+    "symbol": "",
+    "front_text": "When you trigger retaliate; place a counter on this card.",
+    "back_text": "When you trigger retaliate, deal 24 damage,",
+    "character": "ljonar"
+  },
+  "slash_storm.png": {
+    "name": "SLASH STORM",
+    "path": "cards/masteries/fronts/slash_storm.png",
+    "back_path": "cards/masteries/backs/slash_storm.png",
+    "symbol": "",
+    "front_text": "When you play a card, if you have 3 cards with s/ash in your sequence, place a counter on this card,",
+    "back_text": "Your sequence limit is increased by 1. Start: If you have a card with s/ash in your hand, search your discard pile for another card with slash and add it to your hand.",
+    "character": "dareon"
+  },
+  "dragon_guard.png": {
+    "name": "DRAGON GUARD",
+    "path": "cards/masteries/fronts/dragon_guard.png",
+    "back_path": "cards/masteries/backs/dragon_guard.png",
+    "symbol": "",
+    "front_text": "\u201co>: Place a counter on this card,",
+    "back_text": "Start: Recycle 2. <>: Gain a defense token.",
+    "character": "dareon"
+  },
+  "devastating_strength.png": {
+    "name": "DEVASTATING STRENGTH",
+    "path": "cards/masteries/fronts/devastating_strength.png",
+    "back_path": "cards/masteries/backs/devastating_strength.png",
+    "symbol": "AD",
+    "front_text": "Start: You may take a strain token to place a counter on this card,",
+    "back_text": "Your weapon has +3 %* damage. At the end of the round, lose focus.",
+    "character": "thoreg"
+  },
+  "hail_of_bullets.png": {
+    "name": "HAIL OF BULLETS",
+    "path": "cards/masteries/fronts/hail_of_bullets.png",
+    "back_path": "cards/masteries/backs/hail_of_bullets.png",
+    "symbol": "",
+    "front_text": "At the end of your turn, if you spent 2 or more bullets this turn, place a counter on this card.",
+    "back_text": "At the end of your turn, if you spent 2 or more bullets this turn, deal 5+ damage.",
+    "character": "heleren"
+  },
+  "the_huntress_mark.png": {
+    "name": "THE HUNTRESS' MARK",
+    "path": "cards/masteries/fronts/the_huntress_mark.png",
+    "back_path": "cards/masteries/backs/the_huntress_mark.png",
+    "symbol": "",
+    "front_text": "When a behavior card is triggered, you may note the triggered reaction and place a counter on this card.",
+    "back_text": "When a behavior card with the reaction you noted is triggered, you may spend 1 bullet. If you do, draw 1 or deal your weapon damage.",
+    "character": "heleren"
+  },
+  "double_edge.png": {
+    "name": "DOUBLE EDGE",
+    "path": "cards/masteries/fronts/double_edge.png",
+    "back_path": "cards/masteries/backs/double_edge.png",
+    "symbol": "AQ",
+    "front_text": "When you discard a < from your hand, place a counter on this card,",
+    "back_text": "When you discard a = from your hand, deal 1) damage. If that card is a \u20ac, deal 3@ instead,",
+    "character": "karah"
+  },
+  "exhausting_shot.png": {
+    "name": "EXHAUSTING SHOT",
+    "path": "cards/masteries/fronts/exhausting_shot.png",
+    "back_path": "cards/masteries/backs/exhausting_shot.png",
+    "symbol": "",
+    "front_text": "When you play a card with aim, place a counter on this card,",
+    "back_text": "Increase the struggle your maneuvers remove by 1, When the monster reaches 0 struggle, you may discard a > from your hand to inflict vulnerable (max: once per round), |",
+    "character": "mirah"
+  },
+  "master_of_elusion.png": {
+    "name": "MASTER OF ELUSICN",
+    "path": "cards/masteries/fronts/master_of_elusion.png",
+    "back_path": "cards/masteries/backs/master_of_elusion.png",
+    "symbol": "",
+    "front_text": "Start: Reveal <>< from your hand to place a counter on this card.",
+    "back_text": "Each & you play gains stealth, At the end of your turn, remove 1 struggle and lose focus.",
+    "character": "karah"
+  },
+  "the_berserker.png": {
+    "name": "THE BERSERKER",
+    "path": "cards/masteries/fronts/the_berserker.png",
+    "back_path": "cards/masteries/backs/the_berserker.png",
+    "symbol": "B2",
+    "front_text": "When your health becomes critical, place a counter on this card.",
+    "back_text": "When focused: You may heal 1}. When you enter the berserker state, you may heal 1}. Your weapon has +2} damage.",
+    "character": "dareon"
+  },
+  "tenacious_blade.png": {
+    "name": "TENACIOUS BLADE",
+    "path": "cards/masteries/fronts/tenacious_blade.png",
+    "back_path": "cards/masteries/backs/tenacious_blade.png",
+    "symbol": "",
+    "front_text": "When you suffer \\\\, you may reveal a <: from your hand. If you do, place a counter on this card.",
+    "back_text": "\u00aby: Remove | struggle and gain a defense token. When you suffer \\\\, you may discard a <3 from your hand to halve that damage (rounded down).",
+    "character": "dareon"
+  },
+  "blade_of_vengeance.png": {
+    "name": "BLADE OF VENGEANCE",
+    "path": "cards/masteries/fronts/blade_of_vengeance.png",
+    "back_path": "cards/masteries/backs/blade_of_vengeance.png",
+    "symbol": "",
+    "front_text": "When you suffer \\\\, reveal \u00a9 to place a counter on this card.",
+    "back_text": "Increase your hand size limit by 1. Retaliate <>: Deal your weapon damage.",
+    "character": "karah"
+  },
+  "precision_reload.png": {
+    "name": "PRECISION RELOAD",
+    "path": "cards/masteries/fronts/precision_reload.png",
+    "back_path": "cards/masteries/backs/precision_reload.png",
+    "symbol": "",
+    "front_text": "When you reload, place a counter on this card,",
+    "back_text": "When you reload, search your deck or discard pile for a & and add it to your hand. if you searched your deck, reshuffle it.",
+    "character": "heleren"
+  },
+  "burst.png": {
+    "name": "BURST",
+    "path": "cards/masteries/fronts/burst.png",
+    "back_path": "cards/masteries/backs/burst.png",
+    "symbol": "N2",
+    "front_text": "When you empty your hand, place a counter on this card.",
+    "back_text": "Prevent any fatigue damage you would suffer. When you empty your hand, deal 34+ damage.",
+    "character": "mirah"
+  },
+  "ballistic_defense.png": {
+    "name": "BALLISTIC DEFENSE",
+    "path": "cards/masteries/fronts/ballistic_defense.png",
+    "back_path": "cards/masteries/backs/ballistic_defense.png",
+    "symbol": "",
+    "front_text": "es: Place a counter on this card,",
+    "back_text": "Start: If the bullet track level is 0, reload 1, When a player in your sector or an adjacent sector would suffer \\\\, you may spend 1 bullet to prevent that damage (max: once per round).",
+    "character": "heleren"
+  },
+  "storm_of_arrows.png": {
+    "name": "STORM OF ARROWS",
+    "path": "cards/masteries/fronts/storm_of_arrows.png",
+    "back_path": "cards/masteries/backs/storm_of_arrows.png",
+    "symbol": "",
+    "front_text": "\u00a9: Place a counter on this card,",
+    "character": "heleren"
+  },
+  "overdrive.png": {
+    "name": "OVERDRIVE",
+    "path": "cards/masteries/fronts/overdrive.png",
+    "back_path": "cards/masteries/backs/overdrive.png",
+    "symbol": "",
+    "front_text": "At the end of your turn, you may take a strain token. If you do, place a counter on this card.",
+    "back_text": "When you discard a card from your hand to generate stamina, that card generates an additional @ When you pay the stamina cost of a =, you may increase that cost by 1. If you do, dea! 1\"* damage.",
+    "character": "thoreg"
+  },
+  "deadly_aim.png": {
+    "name": "DEADLY AIM",
+    "path": "cards/masteries/fronts/deadly_aim.png",
+    "back_path": "cards/masteries/backs/deadly_aim.png",
+    "symbol": "",
+    "front_text": "When you recycle a card, you may place it face down under this card (max: 1 per round), If you do, place a counter on this card,",
+    "back_text": "When focused: Discard the cards underneath Deadly Aim and deal 4*+ damage for each & discarded this way. At the end of the round, lose focus. |",
+    "character": "mirah"
+  },
+  "heat.png": {
+    "name": "HEAT",
+    "path": "cards/masteries/fronts/heat.png",
+    "back_path": "cards/masteries/backs/heat.png",
+    "symbol": "",
+    "front_text": "At the end of your action phase, you may discard a & from your hand. If you do, place a counter on this card,",
+    "back_text": "Your weapon has +5 damage. \u20ac: Spend 2 bullets or lose focus.",
+    "character": "heleren"
+  },
+  "hammer_knight.png": {
+    "name": "HAMMER KNIGHT",
+    "path": "cards/masteries/fronts/hammer_knight.png",
+    "back_path": "cards/masteries/backs/hammer_knight.png",
+    "symbol": "MW",
+    "front_text": "> Place a counter on this card,",
+    "back_text": "The monster's front side is considered to be exposed during your turn. While you are in the front sector, your weapon has +1 T damage. At the end of your action phase, if you are in the front sactor qain a defence token.",
+    "character": "thoreg"
+  },
+  "shield_of_support.png": {
+    "name": "SHIELD OF SUPPORT",
+    "path": "cards/masteries/fronts/shield_of_support.png",
+    "back_path": "cards/masteries/backs/shield_of_support.png",
+    "symbol": "BR",
+    "front_text": "When you taunt the monster or assist another player, place a counter on this card (max: 1 per round),",
+    "character": "ljonar"
+  },
+  "massive_blow.png": {
+    "name": "MASSIVE BLOW",
+    "path": "cards/masteries/fronts/massive_blow.png",
+    "back_path": "cards/masteries/backs/massive_blow.png",
+    "symbol": "1",
+    "front_text": "When you stun the monster, place a counter on this card.",
+    "back_text": "\u00a9: Deal 2%\" damage. $9: Stun the monster.",
+    "character": "thoreg"
+  },
+  "the_silencer.png": {
+    "name": "THE SILENCER",
+    "path": "cards/masteries/fronts/the_silencer.png",
+    "back_path": "cards/masteries/backs/the_silencer.png",
+    "symbol": "",
+    "front_text": "When you inflict blind, place a counter on this card,",
+    "back_text": "When a behavior card is revealed, you may discard a card with aim from your hand to cancel the effects of that behavior card (max: once per round), j",
+    "character": "mirah"
+  },
+  "dragon_tamer.png": {
+    "name": "DRAGON TAMER",
+    "path": "cards/masteries/fronts/dragon_tamer.png",
+    "back_path": "cards/masteries/backs/dragon_tamer.png",
+    "symbol": "",
+    "front_text": "When you reduce the monster to 0 struggle, place a counter on this card.",
+    "back_text": "When a behavior card is revealed and the monster has 1 or less struggle, you may immediately place your miniature on that behavior card. If you do, cancel the effects of that card and perform a riding check",
+    "character": "thoreg"
+  },
+  "rapid_fire.png": {
+    "name": "RAPID FIRE",
+    "path": "cards/masteries/fronts/rapid_fire.png",
+    "back_path": "cards/masteries/backs/rapid_fire.png",
+    "symbol": "",
+    "front_text": "When you draw a <> during your action phase, you may reveal it to place a counter on this card,",
+    "back_text": "Start: Draw 1 or reload 1.",
+    "character": "heleren"
+  },
+  "unbreakable.png": {
+    "name": "UNBREAKABLE",
+    "path": "cards/masteries/fronts/unbreakable.png",
+    "back_path": "cards/masteries/backs/unbreakable.png",
+    "symbol": "AR",
+    "front_text": "When you are KO'd, , place a counter on this card. |",
+    "character": "ljonar"
+  },
+  "sword_master.png": {
+    "name": "SWORD MASTER",
+    "path": "cards/masteries/fronts/sword_master.png",
+    "back_path": "cards/masteries/backs/sword_master.png",
+    "symbol": "",
+    "front_text": ": Place a counter on this card,",
+    "back_text": "Reduce the stamina cost of all <> you play by 1. > Double your base weapon damage until the end of this turn (max: twice per turn).",
+    "character": "dareon"
+  },
+  "relentless_assault.png": {
+    "name": "RELENTLESS ASSAULT",
+    "path": "cards/masteries/fronts/relentless_assault.png",
+    "back_path": "cards/masteries/backs/relentless_assault.png",
+    "symbol": "",
+    "front_text": "> Place a counter on this card,",
+    "back_text": "Reduce the stamina cost of all < you play by 1,",
+    "character": "dareon"
+  },
+  "the_dancer.png": {
+    "name": "THE DANCER",
+    "path": "cards/masteries/fronts/the_dancer.png",
+    "back_path": "cards/masteries/backs/the_dancer.png",
+    "symbol": "C2",
+    "front_text": "When you chain a card, place a counter on this card.",
+    "back_text": "When you chain a card, deal 1\u20ac) damage. If that card is a >, deal 3\u20ac} instead.",
+    "character": "karah"
+  },
+  "ultimate_shot.png": {
+    "name": "ULTIMATE SHOT",
+    "path": "cards/masteries/fronts/ultimate_shot.png",
+    "back_path": "cards/masteries/backs/ultimate_shot.png",
+    "symbol": "",
+    "front_text": "When you empty your deck, place a counter on this card.",
+    "back_text": "Start: Volley 2. When you empty your deck, deal 5+ damage. |",
+    "character": "mirah"
+  },
+  "blood_rush.png": {
+    "name": "BLOOD RUSH",
+    "path": "cards/masteries/fronts/blood_rush.png",
+    "back_path": "cards/masteries/backs/blood_rush.png",
+    "symbol": "",
+    "front_text": "When the monster suffers a wound, draw 1 and place a counter on this card.",
+    "back_text": "Increase your hand size limit by 1. Reduce the stamina cost of all cards with impetus you play by 1.",
+    "character": "thoreg"
+  },
+  "bastion.png": {
+    "name": "BASTION",
+    "path": "cards/masteries/fronts/bastion.png",
+    "back_path": "cards/masteries/backs/bastion.png",
+    "symbol": "",
+    "front_text": "When you avoid attrition damage, place a counter on this card.",
+    "back_text": "Increase your hand size limit by 1. At the start of another player's attrition phase, that player gains a defense token if you are in their sector,",
+    "character": "ljonar"
+  },
+  "unstoppable.png": {
+    "name": "UNSTOPPABLE",
+    "path": "cards/masteries/fronts/unstoppable.png",
+    "back_path": "cards/masteries/backs/unstoppable.png",
+    "symbol": "",
+    "front_text": "When you trigger battle dance, place a counter on this card.",
+    "back_text": "Prevent any fatigue damage you would suffer. When you trigger battle dance, draw 1 and then discard a card from your hand.",
+    "character": "karah"
+  }
+}

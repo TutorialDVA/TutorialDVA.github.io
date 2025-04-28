@@ -1,0 +1,200 @@
+{
+  "armorCards": [
+    {
+      "name": "Base Armor",
+      "level": 1,
+      "hp": 5,
+      "text": "",
+      "path": "/cards/armors/1/base_armor.png"
+    },
+    {
+      "name": "Red Scale Armor",
+      "level": 1,
+      "hp": 6,
+      "text": "Start: If your health is critical, draw 1.",
+      "path": "/cards/armors/1/red_scale_armor.png"
+    },
+    {
+      "name": "Ironleaf Armor",
+      "level": 1,
+      "hp": 7,
+      "text": "When you suffer damage, you may search your discard pile for a red diamond and shuffle it into your deck.",
+      "path": "/cards/armors/1/ironleaf_armor.png"
+    },
+    {
+      "name": "Iron Plate",
+      "level": 1,
+      "hp": 7,
+      "text": "When you reveal the first attrition card during your attrition check, you may pay a stamina to discard that card and reveal another one from the attrition deck.",
+      "path": "/cards/armors/1/iron_plate.png"
+    },
+    {
+      "name": "Frost Armor",
+      "level": 1,
+      "hp": 6,
+      "text": "Start: Add an exiled card to your hand or exile the top card of your deck.",
+      "path": "/cards/armors/1/frost_armor.png"
+    },
+    {
+      "name": "Totemic Plate",
+      "level": 1,
+      "hp": 6,
+      "text": "At the end of your action phase, you may search the top 3 cards of your discard pile for a green diamond and add it to your hand.",
+      "path": "/cards/armors/1/totemic_plate.png"
+    },
+    {
+      "name": "Reefbound Plate",
+      "level": 1,
+      "hp": 7,
+      "text": "When you inflict a wound, heal 1.",
+      "path": "/cards/armors/1/reefbound_plate.png"
+    },
+    {
+      "name": "Crystal Armor",
+      "level": 1,
+      "hp": 6,
+      "text": "Start: If you have 3 or more cards of the same color in your hand, draw 1.",
+      "path": "/cards/armors/1/crystal_armor.png"
+    },
+    {
+      "name": "Thunder Armor",
+      "level": 1,
+      "hp": 6,
+      "text": "When you empty your hand, deal 3 damage.",
+      "path": "/cards/armors/1/thunder_armor.png"
+    },
+    {
+      "name": "Spined Armor",
+      "level": 1,
+      "hp": 5,
+      "text": "You can hold up to 2 stamina tokens. At the end of your action phase, gain 2 stamina tokens instead of 1 if you have 2 or more cards in your hand.",
+      "path": "/cards/armors/1/spined_armor.png"
+    },
+    {
+      "name": "Spined Armor",
+      "level": 2,
+      "hp": 9,
+      "text": "You can hold up to 3 stamina tokens. At the end of your action phase, gain stamina tokens equal to the number of cards in your hand (max: 3 tokens).",
+      "path": "/cards/armors/2/spined_armor.png"
+    },
+    {
+      "name": "Red Scale Armor",
+      "level": 2,
+      "hp": 12,
+      "text": "Start: You may suffer 1 damage. If your health is critical, or you chose to suffer damage from Red Scale Armor, draw 1.",
+      "path": "/cards/armors/2/red_scale_armor.png"
+    },
+    {
+      "name": "Iron Plate",
+      "level": 2,
+      "hp": 13,
+      "text": "When you reveal the first attrition card during your attrition check, you may choose to discard that card and reveal another one from the attrition deck.",
+      "path": "/cards/armors/2/iron_plate.png"
+    },
+    {
+      "name": "Ironleaf Armor",
+      "level": 2,
+      "hp": 12,
+      "text": "When you suffer damage, you may search your discard pile for a red diamond and place it on top of your deck.",
+      "path": "/cards/armors/2/ironleaf_armor.png"
+    },
+    {
+      "name": "Totemic Plate",
+      "level": 2,
+      "hp": 10,
+      "text": "At the end of your action phase, you may search your discard pile for a green diamond and add it to your hand.",
+      "path": "/cards/armors/2/totemic_plate.png"
+    },
+    {
+      "name": "Thunder Armor",
+      "level": 2,
+      "hp": 11,
+      "text": "When you empty your hand, deal 5 damage.",
+      "path": "/cards/armors/2/thunder_armor.png"
+    },
+    {
+      "name": "Reefbound Plate",
+      "level": 2,
+      "hp": 12,
+      "text": "When you inflict a wound, heal 2. Start: Search your discard pile for a card of your choice and shuffle it into your deck.",
+      "path": "/cards/armors/2/reefbound_plate.png"
+    },
+    {
+      "name": "Frost Armor",
+      "level": 2,
+      "hp": 13,
+      "text": "Start: Add up to 2 of your exiled cards to your hand or exile the top card of your deck or discard pile.",
+      "path": "/cards/armors/2/frost_armor.png"
+    },
+    {
+      "name": "Crystal Armor",
+      "level": 2,
+      "hp": 11,
+      "text": "Start: If you have 3 or more cards of the same color in your hand, draw 1 and reveal the color of that card. Search your discard pile for a card of that color and shuffle it into your deck.",
+      "path": "/cards/armors/2/crystal_armor.png"
+    },
+    {
+      "name": "Totemic Plate",
+      "level": 3,
+      "hp": 15,
+      "text": "Start: You may draw 1 unless you are threatened. At the end of your action phase, you may search your discard pile for a green diamond and add it to your hand.",
+      "path": "/cards/armors/3/totemic_plate.png"
+    },
+    {
+      "name": "Spined Armor",
+      "level": 3,
+      "hp": 14,
+      "text": "You can hold up to 3 stamina tokens. At the end of your action phase, gain stamina tokens equal to the number of cards in your hand (max: 3). When you suffer attrition damage, you may spend a stamina to reduce that damage by 2.",
+      "path": "/cards/armors/3/spined_armor.png"
+    },
+    {
+      "name": "Reefbound Plate",
+      "level": 3,
+      "hp": 16,
+      "text": "When you inflict a wound, heal 3. Start: Search your discard pile for up to 2 cards of your choice and shuffle them into your deck.",
+      "path": "/cards/armors/3/reefbound_plate.png"
+    },
+    {
+      "name": "Red Scale Armor",
+      "level": 3,
+      "hp": 19,
+      "text": "Start: You may suffer 2 damage. If your health is critical, or you chose to suffer damage from Red Scale Armor, draw 2 and then discard a card from your hand.",
+      "path": "/cards/armors/3/red_scale_armor.png"
+    },
+    {
+      "name": "Crystal Armor",
+      "level": 3,
+      "hp": 18,
+      "text": "Start: If you have 3 or more cards of the same color in your hand, draw 1 and reveal the color of that card. Search your discard pile for a card of that color and place it on top of your deck.",
+      "path": "/cards/armors/3/crystal_armor.png"
+    },
+    {
+      "name": "Thunder Armor",
+      "level": 3,
+      "hp": 16,
+      "text": "When you empty your hand, deal 7 damage.",
+      "path": "/cards/armors/3/thunder_armor.png"
+    },
+    {
+      "name": "Ironleaf Armor",
+      "level": 3,
+      "hp": 17,
+      "text": "When you suffer damage, you may search your discard pile for a card of your choice and place it on top of your deck.",
+      "path": "/cards/armors/3/ironleaf_armor.png"
+    },
+    {
+      "name": "Iron Plate",
+      "level": 3,
+      "hp": 17,
+      "text": "Reduce any attrition damage you suffer by 1. When you reveal the first attrition card during your attrition check, you may choose to discard that card and reveal another one from the attrition deck.",
+      "path": "/cards/armors/3/iron_plate.png"
+    },
+    {
+      "name": "Frost Armor",
+      "level": 3,
+      "hp": 18,
+      "text": "Start: Add up to 3 of your exiled cards to your hand or exile the top card of your deck or discard pile. When you focus your mastery, you may exile up to 2 cards from your discard pile.",
+      "path": "/cards/armors/3/frost_armor.png"
+    }
+  ]
+}

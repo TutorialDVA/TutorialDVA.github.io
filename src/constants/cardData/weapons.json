@@ -1,0 +1,2581 @@
+[
+  {
+    "character": "mirah",
+    "name": "Great Bow",
+    "level": 1,
+    "damage": 2,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Red: Volley 1.",
+    "path": "cards/weapons/level1/great_bow.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dancing Bones",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you trigger battle dance, Dancing Bones gets +3 damage until the end of the turn.",
+    "path": "cards/weapons/level2/dancing_bones.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Tiger",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Ignite: You may pay 1 stamina to deal 6 damage. When you reload, gain a stamina token (max: once per turn).",
+    "path": "cards/weapons/level2/tiger.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ocean Gun",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Recycle 1.",
+    "path": "cards/weapons/level1/ocean_gun.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ocean Gun",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Recycle 1. When you reload, heal 2 (max: once per turn).",
+    "path": "cards/weapons/level2/ocean_gun.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Shellstone",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a red card, you may increase that cost by 1 to remove 1 struggle (max: once per turn).",
+    "path": "cards/weapons/level1/shellstone.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Shellstone",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 6,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a red card, you may increase that cost by 1 to remove 2 struggle and confuse the monster (max: once per turn).",
+    "path": "cards/weapons/level3/shellstone.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Horn Wall",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "You may spend a stamina token to assist other players in your sector instead of discarding a card with the corresponding keyword.",
+    "path": "cards/weapons/level1/horn_wall.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Ocean Shield",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Blue and Red: Heal 1 (max: once per turn).",
+    "path": "cards/weapons/level1/ocean_shield.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Thyphoon",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "The stamina cost of the first blue card you play each turn is reduced by 1.",
+    "path": "cards/weapons/level1/thyphoon.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Thyphoon",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "The stamina cost of the first blue card you play each turn is reduced by 1. While your mastery is focused, the stamina cost of the first red card you play each turn is reduced by 1.",
+    "path": "cards/weapons/level2/thyphoon.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Amethyst",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Reveal the top card of your deck, and remove 1 struggle if that card is a blue card.",
+    "path": "cards/weapons/level1/amethyst.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Amethyst",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Ignite: Reveal the top card of your deck, and remove 1 struggle if that card is a yellow card.",
+    "path": "cards/weapons/level2/amethyst.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Radiant Stone",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Start: You may reveal 3 blue cards from your hand to place a counter on your mastery card.",
+    "path": "cards/weapons/level1/radiant_stone.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Radiant Stone",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Start: You may reveal 3 blue cards from your hand to place a counter on your mastery card. While your mastery is focused, Radiant Stone has +1 damage.",
+    "path": "cards/weapons/level2/radiant_stone.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Death Sparkle",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you play a card in your sequence, reveal the top card of your deck. If the color of that card matches the one you played, add it to your hand (max: 2 times per turn).",
+    "path": "cards/weapons/level2/death_sparkle.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Death Sparkle",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you play a card in your sequence, reveal the top card of your deck. If the color of that card matches the one you played, add it to your hand (max: 3 times per turn).",
+    "path": "cards/weapons/level3/death_sparkle.png"
+  },
+  {
+    "character": "karah",
+    "name": "Voltrage",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you overrun the monster, place a counter on this card. Voltrage has +4 damage for each counter on it. Red: Remove all counters from Voltrage after the attack.",
+    "path": "cards/weapons/level1/voltrage.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Iridian Sunder",
+    "level": 1,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you empty your deck, Iridian Sunder gets +1 damage (max: 3 times per game).",
+    "path": "cards/weapons/level1/iridian_sunder.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Iridian Sunder",
+    "level": 2,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you empty your deck, Iridian Sunder gets +1 damage (max: 3 times per game). Blue Red Red: If Iridian Sunder's damage is 8 or more, stun the monster.",
+    "path": "cards/weapons/level2/iridian_sunder.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Windblade",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "When you play a card with slash, deal 1 damage.",
+    "path": "cards/weapons/level1/windblade.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Windblade",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "When you play a card with slash, deal 2 damage. Start: If the top card of your discard pile has slash, you may add it to your hand.",
+    "path": "cards/weapons/level2/windblade.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Windblade",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "When you play a card with slash, deal 3 damage. Start: If the top card of your discard pile has slash, you may add it to your hand.",
+    "path": "cards/weapons/level3/windblade.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Winged Cannon",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 6
+    },
+    "text": "Ignite: You may immediately move without paying any stamina cost.",
+    "path": "cards/weapons/level1/winged_cannon.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Skullshock",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Red: Place a counter on Skullshock (max: 3 counters). If there are already 3 counters on Skullshock, stun the monster and then remove all counters from it after the attack.",
+    "path": "cards/weapons/level1/skullshock.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Skullshock",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Skullshock has +1 damage for each counter on it. Red: Place a counter on Skullshock (max: 3 counters). If there are already 3 counters on Skullshock, stun the monster and then remove all counters from it after the attack.",
+    "path": "cards/weapons/level2/skullshock.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Skullshock",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Skullshock has +2 damage for each counter on it. Red: Place a counter on Skullshock (max: 3 counters). If there are already 3 counters on Skullshock, stun the monster and then remove all counters from it after the attack.",
+    "path": "cards/weapons/level3/skullshock.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Thundercore",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Yellow: Place a counter on this card. Yellow and Red and Red: Deal 1 damage for each counter on this card. Then discard all counters from this card.",
+    "path": "cards/weapons/level1/thundercore.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Thundercore",
+    "level": 2,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Yellow: Place a counter on this card. Yellow and Red and Red: Deal 2 damage for each counter on this card. Then discard all counters from this card.",
+    "path": "cards/weapons/level2/thundercore.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Shard",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "When the monster turns to your sector, draw 1 (max: once per round).",
+    "path": "cards/weapons/level1/shard.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Shard",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "When another player plays a Yellow in their sequence, you may immediately move without paying any stamina cost (max: once per round). When the monster turns to your sector, draw 1 (max: once per round).",
+    "path": "cards/weapons/level2/shard.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Lightning Bow",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: Place a counter on Lightning Bow for each Red in your hand. At the end of the round, discard all counters from Lightning Bow and deal 1 damage for each counter discarded.",
+    "path": "cards/weapons/level1/lightning_bow.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Lightning Bow",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: Place a counter on Lightning Bow for each Red in your hand. At the end of the round, discard all counters from Lightning Bow and deal 3 damage for each counter discarded.",
+    "path": "cards/weapons/level3/lightning_bow.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Airswan",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 3,
+      "green": 6
+    },
+    "text": "Blue and Blue: Draw 1.",
+    "path": "cards/weapons/level1/airswan.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Flame Tongue",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Red: You may suffer 1 damage. If you do, increase the damage the attack deals by 3 (max: once per turn).",
+    "path": "cards/weapons/level1/flame_tongue.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Flame Tongue",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Start: You may suffer 2 damage. If you do, Flame Tongue gets +4 damage until the end of the turn.",
+    "path": "cards/weapons/level2/flame_tongue.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Flame Tongue",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Start: You may suffer 3 damage. If you do, Flame Tongue gets +6 damage until the end of the turn. When your health becomes critical, search your discard pile for a Red and add it to your hand.",
+    "path": "cards/weapons/level3/flame_tongue.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Frostgun",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Ignite: Inflict slow.",
+    "path": "cards/weapons/level1/frostgun.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Frostgun",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Ignite: Inflict slow or add one of your exiled cards to your hand. Blue: You may exile a card from your hand to deal 4 damage.",
+    "path": "cards/weapons/level2/frostgun.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Frostblade",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 5,
+      "green": 3
+    },
+    "text": "When you pay the stamina cost of a Blue card, you may increase that cost by 1. If you do, inflict slow and deal 9 damage.",
+    "path": "cards/weapons/level3/frostblade.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Volcano",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Retaliate Yellow and Red: Deal 3 damage. When a behavior card is revealed and you are in the front sector, you may suffer 1 damage to cancel the effects of that card (max: once per round). If you do, the monster gains 1 struggle.",
+    "path": "cards/weapons/level2/volcano.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Northlaw",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "When you pay the stamina cost of a card with aim, you may increase that cost by 1. If you do, inflict slow.",
+    "path": "cards/weapons/level1/northlaw.png"
+  },
+  {
+    "character": "karah",
+    "name": "Vipers",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When the monster suffers damage during another player's turn, deal 4 damage if you assisted that player with a Green that turn.",
+    "path": "cards/weapons/level2/vipers.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Kobra",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Green and Blue: Deal 1 damage for each Red in your discard pile.",
+    "path": "cards/weapons/level1/kobra.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Mothergun",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Ignite: Gain a defense token (max: once per round).",
+    "path": "cards/weapons/level1/mothergun.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Mothergun",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Ignite: Choose a player to gain a defense token (max: 1 token per player). While your mastery is focused, Mothergun has +1 damage.",
+    "path": "cards/weapons/level3/mothergun.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Reptile",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Ignite: You may add the top card of your discard pile to your hand.",
+    "path": "cards/weapons/level1/reptile.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Reptile",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Ignite: You may add the top card of your discard pile to your hand. If that card is a Blue, deal 6 damage.",
+    "path": "cards/weapons/level3/reptile.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Rawstone",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you avoid attrition damage, deal 3 damage. When a behavior card is revealed and you are in the front sector, you may increase its boost cost by 1 (max: 1 per round).",
+    "path": "cards/weapons/level2/rawstone.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Dragon Bane",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Green and Red: Increase the damage the attack deals by 3 for each Blue in your discard pile.",
+    "path": "cards/weapons/level2/dragon_bane.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Brass Wall",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Blue: Remove 1 struggle.",
+    "path": "cards/weapons/level1/brass_wall.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Shimmerblade",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Start/Action: You may reveal 3 Red cards from your hand to reduce the stamina cost of those cards by 1 until the end of this turn (max: once per turn). Red and Red: Increase the damage the attack deals by 5.",
+    "path": "cards/weapons/level3/shimmerblade.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Bloodreef",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Increase your hand size limit by 1. Blue and Red: Heal 3 and remove 1 struggle.",
+    "path": "cards/weapons/level3/bloodreef.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Dragon Claw",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "When you pay the stamina cost of a Red card, you may increase that cost by 1. If you do, increase the damage that attack deals by 12 (max: once per turn).",
+    "path": "cards/weapons/level3/dragon_claw.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Abyss",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Start: Recycle 2. When you discard a Red from your hand to generate stamina, heal 3 (max: once per turn).",
+    "path": "cards/weapons/level3/abyss.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Tuskbow",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Increase your hand size limit by 1. Start: Recycle 2.",
+    "path": "cards/weapons/level3/tuskbow.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dragon Wings",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you empty your deck, Dragon Wings gets +3 damage (max: 4 times per game).",
+    "path": "cards/weapons/level3/dragon_wings.png"
+  },
+  {
+    "character": "karah",
+    "name": "Twinblade",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 3,
+      "green": 5
+    },
+    "text": "At the end of your action phase, Twinblade gets +3 damage if your sequence includes a card of each color (max: 5 times per game).",
+    "path": "cards/weapons/level3/twinblade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Voltrage",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you overrun the monster, place a counter on this card. Voltrage has +6 damage for each counter on it. Red: Remove all counters from Voltrage after the attack.",
+    "path": "cards/weapons/level3/voltrage.png"
+  },
+  {
+    "character": "karah",
+    "name": "Tidal Waves",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "When you chain a card, remove 1 struggle or recycle 1. When you overrun the monster, heal 3 (max: once per round).",
+    "path": "cards/weapons/level3/tidal_waves.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Gunbow",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Ignite: Deal 1 damage.",
+    "path": "cards/weapons/level1/gunbow.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Abyss",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "When you discard a Red from your hand to generate stamina, heal 1 (max: once per turn).",
+    "path": "cards/weapons/level1/abyss.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Icewall",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Retaliate Yellow Blue: Inflict slow.",
+    "path": "cards/weapons/level1/icewall.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Rawstone",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you avoid attrition damage, deal 5 damage. When a behavior card is revealed and you are in the front sector, you may increase its boost cost by 2 (max: 1 per round).",
+    "path": "cards/weapons/level3/rawstone.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Bloodreef",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Increase your hand size limit by 1.",
+    "path": "cards/weapons/level1/bloodreef.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Tuskbow",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Increase your hand size limit by 1.",
+    "path": "cards/weapons/level1/tuskbow.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Tuskbow",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Increase your hand size limit by 1. Start: Recycle 1.",
+    "path": "cards/weapons/level2/tuskbow.png"
+  },
+  {
+    "character": "karah",
+    "name": "Voltrage",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you overrun the monster, place a counter on this card. Voltrage has +6 damage for each counter on it. Red: Remove all counters from Voltrage after the attack.",
+    "path": "cards/weapons/level2/voltrage.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Electroblast",
+    "level": 2,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "When you play a Blue, Yellow or Green in your sequence, place a counter on Electroblast and then suffer 2 damage if it has 5 or more counters. Ignite: Deal 2 damage for each counter on Electroblast, then remove all counters.",
+    "path": "cards/weapons/level2/electroblast.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Electroblast",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "When you play a Blue, Yellow or Green in your sequence, place a counter on Electroblast and then suffer 1 damage if it has 5 or more counters. Ignite: Deal 1 damage for each counter on Electroblast, then remove all counters.",
+    "path": "cards/weapons/level1/electroblast.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ignis",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 7,
+      "blue": 4,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Place a counter on the behavior discard pile (max: 3 counters). Escalation: The monster suffers 3 damage for each counter on the behavior discard pile. Then remove 1 of those counters.",
+    "path": "cards/weapons/level2/ignis.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Northlaw",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Blue Blue Blue: Draw 1. When you pay the stamina cost of a card with aim, you may increase that cost by 1. If you do, inflict slow.",
+    "path": "cards/weapons/level2/northlaw.png"
+  },
+  {
+    "character": "karah",
+    "name": "Moonblades",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Blue Red Blue: Deal 1 damage for each Yellow in your discard pile.",
+    "path": "cards/weapons/level1/moonblades.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Reptile",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Ignite: You may add the top card of your discard pile to your hand. If that card is a Blue, deal 3 damage.",
+    "path": "cards/weapons/level2/reptile.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Thyphoon",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "The stamina cost of the first Blue you play each turn is reduced by 1. While your mastery is focused, the stamina cost of the first Red you play each turn is reduced by 2.",
+    "path": "cards/weapons/level3/thyphoon.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Brass Wall",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Blue: Reduce the damage you suffered by 1 and remove 1 struggle. When another player in your sector would suffer attrition damage, you may suffer that damage instead.",
+    "path": "cards/weapons/level3/brass_wall.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Volcano",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Retaliate Green Red: Deal 5 damage. When a behavior card is revealed and you are in the front sector, you may suffer 1 stamina to cancel the effects of that card (max: once per round). If you do, the monster gains 1 struggle.",
+    "path": "cards/weapons/level3/volcano.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Tiger",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Ignite: You may pay 1 stamina to deal 9 damage. When you reload, gain a stamina token (max: once per turn).",
+    "path": "cards/weapons/level3/tiger.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Great Sword",
+    "level": 1,
+    "damage": 2,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Red Red: Increase the damage the attack deals by 2 and remove 1 struggle.",
+    "path": "cards/weapons/level1/great_sword.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Sword and Shield",
+    "level": 1,
+    "damage": 2,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Yellow: Remove 1 struggle.",
+    "path": "cards/weapons/level1/sword_and_shield.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Hammer",
+    "level": 1,
+    "damage": 2,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "Blue: If you are in the front sector, increase the struggle the maneuver removes by 1.",
+    "path": "cards/weapons/level1/hammer.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Dragon Claw",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a Red, you may increase that cost by 1. If you do, increase the damage that attack deals by 6 (max: once per turn).",
+    "path": "cards/weapons/level2/dragon_claw.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Shellstone",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a Red, you may increase that cost by 1 to remove 2 struggle (max: once per turn).",
+    "path": "cards/weapons/level2/shellstone.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Horn Wall",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 6,
+      "green": 5
+    },
+    "text": "You may spend a stamina token to assist other players or taunt the monster instead of discarding a card with the corresponding keyword.",
+    "path": "cards/weapons/level2/horn_wall.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Ocean Shield",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Blue Red: Heal 2 (max: once per turn). Start: Search your discard pile for a card of your choice and place it on top of your deck.",
+    "path": "cards/weapons/level2/ocean_shield.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Darkstone Shield",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 4,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Yellow: Reveal the top card of your deck. If that card is a Red, deal 2 damage.",
+    "path": "cards/weapons/level1/darkstone_shield.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Death Sparkle",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you play a card in your sequence, reveal the top card of your deck. If the color of that card matches the one you played, add it to your hand (max: once per turn).",
+    "path": "cards/weapons/level1/death_sparkle.png"
+  },
+  {
+    "character": "karah",
+    "name": "Ice Wings",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "When you overrun the monster, inflict slow or remove 1 struggle.",
+    "path": "cards/weapons/level2/ice_wings.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Burning Stone",
+    "level": 1,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Blue: You may discard the top card of your deck. If that card is a Red, you may add it to your hand.",
+    "path": "cards/weapons/level1/burning_stone.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Burning Stone",
+    "level": 2,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Blue: You may discard the top 2 cards of your deck. If you do, you may add any Red discarded this way to your hand.",
+    "path": "cards/weapons/level2/burning_stone.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Froljark",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you play a card with impetus, inflict slow.",
+    "path": "cards/weapons/level1/froljark.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Froljark",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you play a card with impetus, inflict slow. While the monster is slowed, the front side is considered to be exposed.",
+    "path": "cards/weapons/level2/froljark.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Earthshaker",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 4,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: If you have 2 cards with impetus in your hand, draw 1.",
+    "path": "cards/weapons/level1/earthshaker.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Earthshaker",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 4,
+      "green": 6
+    },
+    "text": "Start: If you have 2 cards with impetus in your hand, draw 1.",
+    "path": "cards/weapons/level2/earthshaker.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Ashbringer",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you discard a blue card from your hand, deal 2 damage.",
+    "path": "cards/weapons/level1/ashbringer.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Ashbringer",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: Volley 1. When you discard a blue card from your hand, deal 3 damage.",
+    "path": "cards/weapons/level2/ashbringer.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Aurean Blade",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Red: Look at the top card of the attrition deck. You may choose to discard it.",
+    "path": "cards/weapons/level1/aurean_blade.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Rawstone",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When a behavior card is revealed and you are in the front sector, you may increase its boost cost by 1 (max: 1 per round).",
+    "path": "cards/weapons/level1/rawstone.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Iron Bow",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Red Red: Increase the damage the attack deals by 3.",
+    "path": "cards/weapons/level1/iron_bow.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Serpent Shield",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Red: Deal 1 damage.",
+    "path": "cards/weapons/level1/serpent_shield.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Iron Bow",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Red Red: Gain a defense token and increase the damage the attack deals by 3.",
+    "path": "cards/weapons/level2/iron_bow.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Aurean Blade",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "When the attrition deck is emptied, inflict vulnerable. Start: Look at the top card of the attrition deck. You may choose to discard it.",
+    "path": "cards/weapons/level2/aurean_blade.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Aurean Blade",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "When the attrition deck is emptied, inflict vulnerable. Start: Look at the top card of the attrition deck. You may choose to discard it.",
+    "path": "cards/weapons/level3/aurean_blade.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Iridian Sunder",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "When you empty your deck, Iridian Sunder gets +2 damage (max: 3 times per game). Blue Red Red: If Iridian Sunder's damage is 11 or more, stun the monster.",
+    "path": "cards/weapons/level3/iridian_sunder.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Shard",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "When another player plays a monster symbol in their sequence, you may immediately move without paying any stamina cost (max: once per round). When the monster turns to your sector, draw up to your hand size limit (max: once per round).",
+    "path": "cards/weapons/level3/shard.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Thundercore",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Yellow: Place a counter on this card. Yellow Red Red: Stun the monster and deal 3 damage for each counter on this card. Then discard all counters from this card.",
+    "path": "cards/weapons/level3/thundercore.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Horn Wall",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 7,
+      "green": 5
+    },
+    "text": "Yellow: Remove 1 struggle. You may spend a stamina token to assist other players or taunt the monster instead of discarding a card with the corresponding keyword.",
+    "path": "cards/weapons/level3/horn_wall.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Northlaw",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Blue Blue Blue: Draw 1. When you pay the stamina cost of a card with aim, you may increase that cost by 1. If you do, inflict slow.",
+    "path": "cards/weapons/level3/northlaw.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Ashbringer",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: Volley 2. When you discard a blue card from your hand, deal 5 damage.",
+    "path": "cards/weapons/level3/ashbringer.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Dragon Bane",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Yellow Red: Increase the damage the attack deals by 5 for each blue card in your discard pile. If this inflicts a wound, stun the monster.",
+    "path": "cards/weapons/level3/dragon_bane.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Earthshaker",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 6
+    },
+    "text": "Yellow Yellow Red Blue: Deal 20 damage. Start: If you have 2 cards with impetus in your hand, draw 1.",
+    "path": "cards/weapons/level3/earthshaker.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Radiant Stone",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "Start: You may reveal Blue Blue Blue from your hand to place a counter on your mastery card. While your mastery is focused, Radiant Stone has +2 damage.",
+    "path": "cards/weapons/level3/radiant_stone.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Frostgun",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Ignite: Inflict slow or add one of your exiled cards to your hand. Blue: You may exile a card from your hand to deal 6 damage.",
+    "path": "cards/weapons/level3/frostgun.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ignis",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 7,
+      "blue": 4,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Place a counter on the behavior discard pile (max: 3 counters). Escalation: The monster suffers 5 damage for each counter on the behavior discard pile. Then remove 1 of those counters.",
+    "path": "cards/weapons/level3/ignis.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Electroblast",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 5,
+      "green": 4
+    },
+    "text": "When you play a Blue, Yellow or Green in your sequence, place a counter on Electroblast and then suffer 3 damage if it has 5 or more counters. Ignite: Deal 3 damage for each counter on Electroblast, then remove all counters.",
+    "path": "cards/weapons/level3/electroblast.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Amethyst",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Ignite: Reveal the top card of your deck, and remove 1 struggle if that card is a Green. Then you may add that card to your hand.",
+    "path": "cards/weapons/level3/amethyst.png"
+  },
+  {
+    "character": "karah",
+    "name": "Vipers",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Setup: Place 4 counters on this card. When the monster suffers a wound, discard a counter from this card for each Red in your discard pile. Vipers gets +1 damage for each counter discarded this way. When the monster suffers damage during another player's turn, deal 5 damage if you assisted that player with a Green that turn.",
+    "path": "cards/weapons/level3/vipers.png"
+  },
+  {
+    "character": "karah",
+    "name": "Shimmering Star",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When a player plays a card in their sequence, you may discard a card of that same color from your hand (max: once per turn). If you do, deal your weapon damage. If the discarded card is a Red, draw 1.",
+    "path": "cards/weapons/level2/shimmering_star.png"
+  },
+  {
+    "character": "karah",
+    "name": "Shimmering Star",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When a player plays a card in their sequence, you may discard a card of that same color from your hand (max: once per turn). If you do, deal your weapon damage. If the discarded card is a Green, draw 1.",
+    "path": "cards/weapons/level3/shimmering_star.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dancing Bones",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you trigger battle dance, Dancing Bones gets +4 damage until the end of the turn. When you chain a card and your mastery is focused, gain a stamina token (max: once per turn).",
+    "path": "cards/weapons/level3/dancing_bones.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Serpent Shield",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "Retaliate Red: Deal 2 damage. Yellow Red: Increase the damage the attack deals by 1 for each Red in your discard pile.",
+    "path": "cards/weapons/level2/serpent_shield.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Shimmerblade",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Start: You may reveal Red Red Red from your hand to reduce the stamina cost of those cards by 1 until the end of this turn. Red Red: Increase the damage the attack deals by 3.",
+    "path": "cards/weapons/level2/shimmerblade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dual Blade",
+    "level": 1,
+    "damage": 2,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 6,
+      "green": 6
+    },
+    "text": "When you trigger battle dance, deal 1 damage.",
+    "path": "cards/weapons/level1/dual_blade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Tidal Waves",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "text": "When you chain a card, recycle 1.",
+    "path": "cards/weapons/level1/tidal_waves.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Tiger",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Ignite: You may pay 1 stamina to deal 3 damage.",
+    "path": "cards/weapons/level1/tiger.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Shimmerblade",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 6,
+      "yellow": 4,
+      "green": 4
+    },
+    "text": "Start: You may reveal Red Red Red from your hand to reduce the stamina cost of those cards by 1 until the end of this turn.",
+    "path": "cards/weapons/level1/shimmerblade.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Lightning Bow",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Start: Place a counter on Lightning Bow for each Red in your hand. At the end of the round, discard all counters from Lightning Bow and deal 2 damage for each counter discarded.",
+    "path": "cards/weapons/level2/lightning_bow.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Airswan",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 3,
+      "green": 6
+    },
+    "text": "Blue Red: Draw 1. The card you drew gains stealth until the end of this turn.",
+    "path": "cards/weapons/level2/airswan.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ignis",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "Ignite: Place a counter on the behavior discard pile (max: 3 counters). Escalation: The monster suffers 1 damage for each counter on the behavior discard pile. Then remove 1 of those counters.",
+    "path": "cards/weapons/level1/ignis.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Spider Needle",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Start: Volley 1.",
+    "path": "cards/weapons/level1/spider_needle.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Icewall",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "Retaliate Yellow Blue: Deal 3 damage and inflict slow. While the monster is slowed, Icewall has +2 damage.",
+    "path": "cards/weapons/level3/icewall.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Burning Stone",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a Red, you may suffer 3 damage to reduce that cost by 2. Blue: You may discard the top 2 cards of your deck. If you do, you may add any Red discarded this way to your hand.",
+    "path": "cards/weapons/level3/burning_stone.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Dragon Claw",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "text": "When you pay the stamina cost of a Red, you may increase that cost by 1. If you do, increase the damage that attack deals by 3 (max: once per turn).",
+    "path": "cards/weapons/level1/dragon_claw.png"
+  },
+  {
+    "character": "karah",
+    "name": "Moonblades",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 7,
+      "green": 3
+    },
+    "abilities": [
+      {
+        "type": "Red Blue Red",
+        "text": "Deal 3 damage for each Yellow in your discard pile"
+      }
+    ],
+    "path": "cards/weapons/level3/moonblades.png"
+  },
+  {
+    "character": "karah",
+    "name": "Ice Wings",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you overrun the monster, inflict slow or remove 1 struggle"
+      },
+      {
+        "type": "Passive",
+        "text": "When you trigger battle dance, remove 1 struggle"
+      }
+    ],
+    "path": "cards/weapons/level3/ice_wings.png"
+  },
+  {
+    "character": "karah",
+    "name": "Tidal Waves",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you chain a card, remove 1 struggle or recycle 1"
+      }
+    ],
+    "path": "cards/weapons/level2/tidal_waves.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Bloodreef",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "Increase your hand size limit by 1"
+      },
+      {
+        "type": "Blue Red",
+        "text": "Heal 2"
+      }
+    ],
+    "path": "cards/weapons/level2/bloodreef.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Winged Cannon",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Ignite",
+        "text": "You may immediately move without paying any stamina cost. If you do move, deal 3 damage"
+      }
+    ],
+    "path": "cards/weapons/level2/winged_cannon.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dragon Wings",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you empty your deck, Dragon Wings gets +2 damage (max: 4 times per game)"
+      }
+    ],
+    "path": "cards/weapons/level2/dragon_wings.png"
+  },
+  {
+    "character": "karah",
+    "name": "Ice Wings",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you overrun the monster, inflict slow"
+      }
+    ],
+    "path": "cards/weapons/level1/ice_wings.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Frostblade",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you pay the stamina cost of a Blue, you may increase that cost by 1. If you do, deal 4 damage"
+      }
+    ],
+    "path": "cards/weapons/level1/frostblade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Moonblades",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Blue Red Blue",
+        "text": "Deal 2 damage for each Yellow in your discard pile"
+      }
+    ],
+    "path": "cards/weapons/level2/moonblades.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Brass Wall",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Retaliate Yellow Blue",
+        "text": "Reduce the damage you suffered by 1 and remove 1 struggle"
+      },
+      {
+        "type": "Passive",
+        "text": "When another player in your sector would suffer attrition damage, you may suffer that damage instead"
+      }
+    ],
+    "path": "cards/weapons/level2/brass_wall.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Iron Bow",
+    "level": 3,
+    "damage": 9,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Red Blue",
+        "text": "Increase the damage the attack deals by 5. You and the next player in turn order each gain a defense token"
+      }
+    ],
+    "path": "cards/weapons/level3/iron_bow.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Mothergun",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Ignite",
+        "text": "Gain a defense token (max: once per round)"
+      },
+      {
+        "type": "Passive",
+        "text": "While your mastery is focused, Mothergun has +1 damage"
+      }
+    ],
+    "path": "cards/weapons/level2/mothergun.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dancing Bones",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you trigger battle dance, Dancing Bones gets +2 damage until the end of the turn"
+      }
+    ],
+    "path": "cards/weapons/level1/dancing_bones.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Abyss",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 4,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Start",
+        "text": "Recycle 1"
+      },
+      {
+        "type": "Passive",
+        "text": "When you discard a Red from your hand to generate stamina, heal 2 (max: once per turn)"
+      }
+    ],
+    "path": "cards/weapons/level2/abyss.png"
+  },
+  {
+    "character": "karah",
+    "name": "Twinblade",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 3,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "At the end of your action phase, Twinblade gets +2 damage if your sequence includes a card of each color (max: 3 times per game)"
+      }
+    ],
+    "path": "cards/weapons/level2/twinblade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Vipers",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When the monster suffers damage during another player's turn, deal 2 damage if you assisted that player with a Blue that turn"
+      }
+    ],
+    "path": "cards/weapons/level1/vipers.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Dragon Bane",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 6,
+      "blue": 5,
+      "yellow": 4,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Yellow Red",
+        "text": "Increase the damage the attack deals by 1 for each Blue in your discard pile"
+      }
+    ],
+    "path": "cards/weapons/level1/dragon_bane.png"
+  },
+  {
+    "character": "karah",
+    "name": "Shimmering Star",
+    "level": 1,
+    "damage": 4,
+    "cards": {
+      "red": 4,
+      "blue": 6,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When another player plays a card in their sequence, you may discard a card of that same color from your hand. If you do, deal your weapon damage (max: once per turn)"
+      }
+    ],
+    "path": "cards/weapons/level1/shimmering_star.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Darkstone Shield",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 4,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Retaliate Yellow",
+        "text": "Reveal the top card of your deck. If that card is a Red, deal 2 damage"
+      },
+      {
+        "type": "Passive",
+        "text": "When another player would suffer attrition damage, they may reveal a card from their hand. If you are in the front sector, you may reveal a card of that same color from your hand to reduce that attrition damage by 2"
+      }
+    ],
+    "path": "cards/weapons/level2/darkstone_shield.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Darkstone Shield",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 4,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Retaliate Yellow",
+        "text": "Reveal the top card of your deck. If that card is a Blue, deal 3 damage"
+      },
+      {
+        "type": "Passive",
+        "text": "When another player would suffer attrition damage, they may reveal a card from their hand. If you are in the front sector, you may reveal a card of that same color from your hand to reduce that attrition damage by 3"
+      }
+    ],
+    "path": "cards/weapons/level3/darkstone_shield.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Ocean Shield",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Blue Red",
+        "text": "Heal 3 (max: once per turn)"
+      },
+      {
+        "type": "Start",
+        "text": "Search your discard pile for a card of your choice and add it to your hand"
+      }
+    ],
+    "path": "cards/weapons/level3/ocean_shield.png"
+  },
+  {
+    "character": "karah",
+    "name": "Twinblade",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 3,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "At the end of your action phase, Twinblade gets +1 damage if your sequence includes a card of each color (max: 4 times per game)"
+      }
+    ],
+    "path": "cards/weapons/level1/twinblade.png"
+  },
+  {
+    "character": "karah",
+    "name": "Dragon Wings",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you empty your deck, Dragon Wings gets +1 damage (max: 4 times per game)"
+      }
+    ],
+    "path": "cards/weapons/level1/dragon_wings.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Frostblade",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 5,
+      "blue": 7,
+      "yellow": 5,
+      "green": 3
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you pay the stamina cost of a Blue, you may increase that cost by 1. If you do, inflict slow or deal 6 damage"
+      }
+    ],
+    "path": "cards/weapons/level2/frostblade.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Volcano",
+    "level": 1,
+    "damage": 3,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When a behavior card is revealed and you are in the front sector, you may suffer 1 stamina to cancel the effects of that card (max: once per round). If you do, the monster gains 1 struggle"
+      }
+    ],
+    "path": "cards/weapons/level1/volcano.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Icewall",
+    "level": 2,
+    "damage": 5,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Retaliate Yellow Blue",
+        "text": "Deal 2 damage and inflict slow"
+      }
+    ],
+    "path": "cards/weapons/level2/icewall.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Spider Needle",
+    "level": 2,
+    "damage": 6,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Start",
+        "text": "Volley 2"
+      },
+      {
+        "type": "Passive",
+        "text": "When the monster suffers a wound, deal 2 damage for each Red in your discard pile"
+      }
+    ],
+    "path": "cards/weapons/level2/spider_needle.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Spider Needle",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 6,
+      "blue": 4,
+      "yellow": 5,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Start",
+        "text": "Volley 3"
+      },
+      {
+        "type": "Passive",
+        "text": "When the monster suffers a wound, deal 3 damage for each Red in your discard pile"
+      }
+    ],
+    "path": "cards/weapons/level3/spider_needle.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Kobra",
+    "level": 2,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Yellow Blue",
+        "text": "Deal 3 damage for each Red in your discard pile."
+      }
+    ],
+    "path": "cards/weapons/level2/kobra.png"
+  },
+  {
+    "character": "dareon",
+    "name": "Kobra",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 4,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Yellow Blue",
+        "text": "Deal 5 damage for each Red in your discard pile. If this inflicts a wound, inflict vulnerable"
+      }
+    ],
+    "path": "cards/weapons/level3/kobra.png"
+  },
+  {
+    "character": "ljonar",
+    "name": "Serpent Shield",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 5,
+      "yellow": 6,
+      "green": 4
+    },
+    "abilities": [
+      {
+        "type": "Retaliate Red",
+        "text": "Deal 3 damage"
+      },
+      {
+        "type": "Yellow Red",
+        "text": "Increase the damage the attack deals by 2 for each Red in your discard pile. If this inflicts a wound, remove 2 struggle"
+      }
+    ],
+    "path": "cards/weapons/level3/serpent_shield.png"
+  },
+  {
+    "character": "mirah",
+    "name": "Airswan",
+    "level": 3,
+    "damage": 7,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 3,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Blue Blue",
+        "text": "Draw 1. The card you drew gains stealth, and its stamina cost is reduced by 1 until the end of this turn"
+      }
+    ],
+    "path": "cards/weapons/level3/airswan.png"
+  },
+  {
+    "character": "thoreg",
+    "name": "Froljark",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Passive",
+        "text": "When you play a card with impetus, inflict slow. While the monster is slowed, the front side is considered to be exposed and Froljark has +2 damage"
+      }
+    ],
+    "path": "cards/weapons/level3/froljark.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Winged Cannon",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 5,
+      "green": 6
+    },
+    "abilities": [
+      {
+        "type": "Start",
+        "text": "You may reveal Red, Blue, Yellow, Green from your hand to reload 1"
+      },
+      {
+        "type": "Ignite",
+        "text": "You may immediately move without paying any stamina cost. If you do move, deal 6 damage"
+      }
+    ],
+    "path": "cards/weapons/level3/winged_cannon.png"
+  },
+  {
+    "character": "heleren",
+    "name": "Ocean Gun",
+    "level": 3,
+    "damage": 8,
+    "cards": {
+      "red": 5,
+      "blue": 6,
+      "yellow": 4,
+      "green": 5
+    },
+    "abilities": [
+      {
+        "type": "Ignite",
+        "text": "You may draw 1 or recycle 2"
+      },
+      {
+        "type": "Reload",
+        "text": "Heal 3 (max: once per turn)"
+      }
+    ],
+    "path": "cards/weapons/level3/ocean_gun.png"
+  }
+]

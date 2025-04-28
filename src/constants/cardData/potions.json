@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Alemore",
+        "level": 1,
+        "text": "Consume: Choose a player in your sector to heal 2. If the current attrition level (the attrition value of the top card of the attrition discard pile) is 1 or lower, that player heals 4 instead.",
+        "path": "cards/potions/1/alemore.png"
+    },
+    {
+        "name": "Alemore",
+        "level": 2,
+        "text": "Consume: Choose a player in your sector to heal 4. If the current attrition level is 1 or lower, that player heals 8 instead.",
+        "path": "cards/potions/2/alemore.png"
+    },
+    {
+        "name": "Alemore",
+        "level": 3,
+        "text": "Consume: Choose a player in your sector to heal 6. If the current attrition level is 1 or lower, that player heals 12 instead.",
+        "path": "cards/potions/3/alemore.png"
+    },
+    {
+        "name": "Evok",
+        "level": 1,
+        "text": "Consume: Discard a card from your hand to search your deck for a defense and add it to your hand. Then shuffle your deck.",
+        "path": "cards/potions/1/evok.png"
+    },
+    {
+        "name": "Evok",
+        "level": 2,
+        "text": "Consume: Search your deck for a defense and add it to your hand. Then shuffle your deck.",
+        "path": "cards/potions/2/evok.png"
+    },
+    {
+        "name": "Evok",
+        "level": 3,
+        "text": "Consume: Search your deck for a card of your choice and add it to your hand. Then shuffle your deck. If that card is a defense, its stamina cost is reduced by 1 until the end of this turn.",
+        "path": "cards/potions/3/evok.png"
+    },
+    {
+        "name": "Hatrox",
+        "level": 1,
+        "text": "Consume: Suffer damage equal to your weapon level. Your weapon gets +3 damage until the end of this round.",
+        "path": "cards/potions/1/hatrox.png"
+    },
+    {
+        "name": "Hatrox",
+        "level": 2,
+        "text": "Consume: Suffer damage equal to your weapon level. Your weapon gets +6 damage until the end of this round.",
+        "path": "cards/potions/2/hatrox.png"
+    },
+    {
+        "name": "Hatrox",
+        "level": 3,
+        "text": "Consume: Suffer damage equal to your weapon level. Your weapon gets +9 damage until the end of this round.",
+        "path": "cards/potions/3/hatrox.png"
+    },
+    {
+        "name": "Imperia",
+        "level": 1,
+        "text": "Consume: Suffer damage equal to your weapon level and draw 2.",
+        "path": "cards/potions/1/imperia.png"
+    },
+    {
+        "name": "Imperia",
+        "level": 2,
+        "text": "Consume: Draw 2.",
+        "path": "cards/potions/2/imperia.png"
+    },
+    {
+        "name": "Imperia",
+        "level": 3,
+        "text": "Consume: Draw 2 and reduce the stamina cost of the first card you play this round by 1.",
+        "path": "cards/potions/3/imperia.png"
+    },
+    {
+        "name": "Irden",
+        "level": 1,
+        "text": "Consume: Gain a defense token.",
+        "path": "cards/potions/1/irden.png"
+    },
+    {
+        "name": "Irden",
+        "level": 2,
+        "text": "Consume: Gain a defense token and reduce the attrition damage you would suffer this round by 1.",
+        "path": "cards/potions/2/irden.png"
+    },
+    {
+        "name": "Irden",
+        "level": 3,
+        "text": "Consume: Skip the attrition phase this round.",
+        "path": "cards/potions/3/irden.png"
+    },
+    {
+        "name": "Vydia",
+        "level": 1,
+        "text": "Consume: Discard a card from your hand to search your deck for an attack and add it to your hand. Then shuffle your deck.",
+        "path": "cards/potions/1/vydia.png"
+    },
+    {
+        "name": "Vydia",
+        "level": 2,
+        "text": "Consume: Search your deck for an attack and add it to your hand. Then shuffle your deck.",
+        "path": "cards/potions/2/vydia.png"
+    },
+    {
+        "name": "Vydia",
+        "level": 3,
+        "text": "Consume: Search your deck for a card of your choice and add it to your hand. Then shuffle your deck. If that card is an attack, its stamina cost is reduced by 1 until the end of this turn.",
+        "path": "cards/potions/3/vydia.png"
+    }
+]

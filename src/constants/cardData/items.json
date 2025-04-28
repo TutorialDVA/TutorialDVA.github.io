@@ -1,0 +1,380 @@
+[
+    {
+      "name": "Big Jaws",
+      "level": 1,
+      "element": "earth/nature",
+      "text": "When the monster turns to your sector, you may exhaust this card to deal 2 damage for each heart in your discard pile.",
+      "path": "cards/items/1/big_jaws.png"
+    },
+    {
+      "name": "Big Jaws",
+      "level": 2,
+      "element": "earth/nature",
+      "text": "When the monster turns to your sector, you may exhaust this card to deal 4 damage for each heart in your discard pile.",
+      "path": "cards/items/2/big_jaws.png"
+    },
+    {
+      "name": "Big Jaws",
+      "level": 3,
+      "element": "earth/nature",
+      "text": "When the monster turns to your sector, you may exhaust this card to deal 6 damage for each heart in your discard pile.",
+      "path": "cards/items/3/big_jaws.png"
+    },
+    {
+      "name": "Blackspin",
+      "level": 1,
+      "element": "poison/nature",
+      "text": "When you empty your deck, you may reveal a club from your hand to deal 4 damage.",
+      "path": "cards/items/1/blackspin.png"
+    },
+    {
+      "name": "Blackspin",
+      "level": 2,
+      "element": "poison/nature",
+      "text": "When you empty your deck, deal 5 damage for each club in your hand.",
+      "path": "cards/items/2/blackspin.png"
+    },
+    {
+      "name": "Blackspin",
+      "level": 3,
+      "element": "poison/nature",
+      "text": "When you empty your deck, deal 7 damage for each club in your hand. If this inflicts a wound, inflict vulnerable.",
+      "path": "cards/items/3/blackspin.png"
+    },
+    {
+      "name": "Bloodseeker",
+      "level": 1,
+      "element": "poison/nature",
+      "text": "When you avoid attrition damage, deal 1 damage for each diamond in your discard pile.",
+      "path": "cards/items/1/bloodseeker.png"
+    },
+    {
+      "name": "Bloodseeker",
+      "level": 2,
+      "element": "poison/nature",
+      "text": "When you avoid attrition damage, deal 2 damage for each diamond in your discard pile.",
+      "path": "cards/items/2/bloodseeker.png"
+    },
+    {
+      "name": "Bloodseeker",
+      "level": 3,
+      "element": "poison/nature",
+      "text": "When you avoid attrition damage, deal 3 damage for each diamond in your discard pile.",
+      "path": "cards/items/3/bloodseeker.png"
+    },
+    {
+      "name": "Boomerang",
+      "level": 1,
+      "element": "fire/nature",
+      "text": "At the end of your action phase, if the first and last cards in your sequence are club, deal 1 damage for each card in your sequence.",
+      "path": "cards/items/1/boomerang.png"
+    },
+    {
+      "name": "Boomerang",
+      "level": 2,
+      "element": "fire/nature",
+      "text": "At the end of your action phase, if the first and last cards in your sequence are club, deal 2 damage for each card in your sequence.",
+      "path": "cards/items/2/boomerang.png"
+    },
+    {
+      "name": "Boomerang",
+      "level": 3,
+      "element": "fire/nature",
+      "text": "At the end of your action phase, if the first and last cards in your sequence are club, deal 3 damage for each card in your sequence.",
+      "path": "cards/items/3/boomerang.png"
+    },
+    {
+      "name": "Coral Trident",
+      "level": 1,
+      "element": "water/nature",
+      "text": "Your action cards are considered to have an additional stamina icon for the purpose of riding checks.",
+      "path": "cards/items/1/coral_trident.png"
+    },
+    {
+      "name": "Coral Trident",
+      "level": 2,
+      "element": "water/nature",
+      "text": "When you deal damage to the monster through a riding check, increase that damage by 4. Your action cards are considered to have an additional stamina icon for the purpose of riding checks.",
+      "path": "cards/items/2/coral_trident.png"
+    },
+    {
+      "name": "Coral Trident",
+      "level": 3,
+      "element": "water/nature",
+      "text": "When you deal damage to the monster through a riding check, increase that damage by 7. Your action cards are considered to have an additional stamina icon for the purpose of riding checks.",
+      "path": "cards/items/3/coral_trident.png"
+    },
+    {
+      "name": "Crystal Spear",
+      "level": 1,
+      "element": "arcane/nature",
+      "text": "Start: If you have diamond diamond diamond in your hand, you may discard one of those cards to deal 6 damage.",
+      "path": "cards/items/1/crystal_spear.png"
+    },
+    {
+      "name": "Crystal Spear",
+      "level": 2,
+      "element": "arcane/nature",
+      "text": "Start: If you have diamond diamond diamond in your hand, you may discard one of those cards to deal 9 damage. If this inflicts a wound, inflict vulnerable.",
+      "path": "cards/items/2/crystal_spear.png"
+    },
+    {
+      "name": "Crystal Spear",
+      "level": 3,
+      "element": "arcane/nature",
+      "text": "Start: If you have diamond diamond diamond in your hand, you may discard one of those cards to deal 12 damage. If this inflicts a wound, inflict vulnerable.",
+      "path": "cards/items/3/crystal_spear.png"
+    },
+    {
+      "name": "Electric Dagger",
+      "level": 1,
+      "element": "lightning/nature",
+      "text": "When you avoid attrition damage, you may choose and discard a behavior card in play. If you do, replenish its behavior slot with the top card of the behavior deck.",
+      "path": "cards/items/1/electric_dagger.png"
+    },
+    {
+      "name": "Electric Dagger",
+      "level": 2,
+      "element": "lightning/nature",
+      "text": "When you avoid attrition damage, deal 4 damage. Then you may choose and discard a behavior card in play. If you do, replenish its behavior slot with the top card of the behavior deck.",
+      "path": "cards/items/2/electric_dagger.png"
+    },
+    {
+      "name": "Electric Dagger",
+      "level": 3,
+      "element": "lightning/nature",
+      "text": "When you avoid attrition damage, deal 4 damage for each sun in your sequence. Then you may choose and discard a behavior card in play. If you do, replenish its behavior slot with the top card of the behavior deck.",
+      "path": "cards/items/3/electric_dagger.png"
+    },
+    {
+      "name": "Electric Whip",
+      "level": 1,
+      "element": "lightning/nature",
+      "text": "When a behavior card is revealed, you may discard a diamond from your hand to increase its boost cost by 1.",
+      "path": "cards/items/1/electric_whip.png"
+    },
+    {
+      "name": "Electric Whip",
+      "level": 2,
+      "element": "lightning/nature",
+      "text": "When a behavior card is revealed, you may discard a diamond from your hand to increase its boost cost by 1. If you do, deal 3 damage.",
+      "path": "cards/items/2/electric_whip.png"
+    },
+    {
+      "name": "Electric Whip",
+      "level": 3,
+      "element": "lightning/nature",
+      "text": "When a behavior card is revealed, you may discard a diamond from your hand to increase its boost cost by 1. If you do, deal 3 damage for each diamond in your discard pile.",
+      "path": "cards/items/3/electric_whip.png"
+    },
+    {
+      "name": "Explosive",
+      "level": 1,
+      "element": "earth/nature",
+      "text": "Start: You may exhaust this card to deal 5 damage. If this inflicts a wound, confuse the monster.",
+      "path": "cards/items/1/explosive.png"
+    },
+    {
+      "name": "Explosive",
+      "level": 2,
+      "element": "earth/nature",
+      "text": "Start: You may exhaust this card to deal 10 damage. If this inflicts a wound, stun and confuse the monster.",
+      "path": "cards/items/2/explosive.png"
+    },
+    {
+      "name": "Explosive",
+      "level": 3,
+      "element": "earth/nature",
+      "text": "Start: You may exhaust this card to deal 15 damage. If this inflicts a wound, stun and confuse the monster.",
+      "path": "cards/items/3/explosive.png"
+    },
+    {
+      "name": "Feathered Coat",
+      "level": 1,
+      "element": "fire/nature",
+      "text": "When you move, if you are not the aggro player, you may reveal a club from your hand to ignore the movement cost.",
+      "path": "cards/items/1/feathered_coat.png"
+    },
+    {
+      "name": "Feathered Coat",
+      "level": 2,
+      "element": "fire/nature",
+      "text": "When you move, you may reveal a club from your hand to ignore the movement cost.",
+      "path": "cards/items/2/feathered_coat.png"
+    },
+    {
+      "name": "Feathered Coat",
+      "level": 3,
+      "element": "fire/nature",
+      "text": "When you move, you may reveal a club from your hand to ignore the movement cost. When you would trigger a behavior card with the wolf reaction, you may reveal club club from your hand. If you do, discard that behavior card instead and replenish its behavior slot (max: 1 per round).",
+      "path": "cards/items/3/feathered_coat.png"
+    },
+    {
+      "name": "Frozen Boots",
+      "level": 1,
+      "element": "ice/nature",
+      "text": "Ignore the effects of water and ice terrains.",
+      "path": "cards/items/1/frozen_boots.png"
+    },
+    {
+      "name": "Frozen Boots",
+      "level": 2,
+      "element": "ice/nature",
+      "text": "Ignore the effects of water, ice and sand terrains.",
+      "path": "cards/items/2/frozen_boots.png"
+    },
+    {
+      "name": "Frozen Boots",
+      "level": 3,
+      "element": "ice/nature",
+      "text": "Ignore the effects of water, ice, sand and swamp terrains.",
+      "path": "cards/items/3/frozen_boots.png"
+    },
+    {
+      "name": "Gauntlet of Shell Blade",
+      "level": 1,
+      "element": "water/nature",
+      "text": "When you avoid attrition damage, add the top card of your discard pile to your hand. If that card is a diamond, deal 3 damage.",
+      "path": "cards/items/1/gauntlet_of_shell_blade.png"
+    },
+    {
+      "name": "Gauntlet of Shell Blade",
+      "level": 2,
+      "element": "water/nature",
+      "text": "When you avoid attrition damage, add the top card of your discard pile to your hand. If that card is a diamond, deal 5 damage.",
+      "path": "cards/items/2/gauntlet_of_shell_blade.png"
+    },
+    {
+      "name": "Gauntlet of Shell Blade",
+      "level": 3,
+      "element": "water/nature",
+      "text": "When you avoid attrition damage, add the top card of your discard pile to your hand. If that card is a spade, deal 7 damage.",
+      "path": "cards/items/3/gauntlet_of_shell_blade.png"
+    },
+    {
+      "name": "Iron Greaves",
+      "level": 1,
+      "element": "earth/nature",
+      "text": "Your health value is increased by 2. When you are KO'd, exhaust this card.",
+      "path": "cards/items/1/iron_greaves.png"
+    },
+    {
+      "name": "Iron Greaves",
+      "level": 2,
+      "element": "earth/nature",
+      "text": "Your health value is increased by 4. When you are KO'd, exhaust this card.",
+      "path": "cards/items/2/iron_greaves.png"
+    },
+    {
+      "name": "Iron Greaves",
+      "level": 3,
+      "element": "earth/nature",
+      "text": "Your health value is increased by 6. When you are KO'd, exhaust this card.",
+      "path": "cards/items/3/iron_greaves.png"
+    },
+    {
+      "name": "Lava Buckler",
+      "level": 1,
+      "element": "fire/nature",
+      "text": "Setup: Place 2 counters on this card. When you would suffer attrition damage, you may remove a counter from Lava Buckler and discard the top card of your deck. If that card is a sun, prevent that damage.",
+      "path": "cards/items/1/lava_buckler.png"
+    },
+    {
+      "name": "Lava Buckler",
+      "level": 2,
+      "element": "fire/nature",
+      "text": "Setup: Place 2 counters on this card. When you would suffer wound, you may remove a counter from Lava Buckler and discard the top card of your deck. If that card is a sun, prevent that damage.",
+      "path": "cards/items/2/lava_buckler.png"
+    },
+    {
+      "name": "Lava Buckler",
+      "level": 3,
+      "element": "fire/nature",
+      "text": "Setup: Place 2 counters on this card. When you would suffer wound, you may remove a counter from Lava Buckler. If you do, discard a card either from your hand or from the top of your deck. If that card is a sun, prevent that damage.",
+      "path": "cards/items/3/lava_buckler.png"
+    },
+    {
+      "name": "Shimmering Boots",
+      "level": 1,
+      "element": "arcane/nature",
+      "text": "When you move, you may name a color and then discard the top card of your deck. If that card matches the color named, ignore the movement cost.",
+      "path": "cards/items/1/shimmering_boots.png"
+    },
+    {
+      "name": "Shimmering Boots",
+      "level": 2,
+      "element": "arcane/nature",
+      "text": "Action: Move (max: once per turn). When you move, you may name a color and then discard the top card of your deck. If that card matches the color named, ignore the movement cost.",
+      "path": "cards/items/2/shimmering_boots.png"
+    },
+    {
+      "name": "Shimmering Boots",
+      "level": 3,
+      "element": "arcane/nature",
+      "text": "Action: Move (max: once per turn). When you move, you may name a color and then discard up to 2 cards from the top of your deck. If at least one of the discarded cards matches the color named, ignore the movement cost.",
+      "path": "cards/items/3/shimmering_boots.png"
+    },
+    {
+      "name": "Skeletal Spear",
+      "level": 1,
+      "element": "earth/nature",
+      "text": "When a behavior card is revealed, you may exhaust this card if you are in the front sector. If you do, deal 7 damage and cancel the effects of that behavior card.",
+      "path": "cards/items/1/skeletal_spear.png"
+    },
+    {
+      "name": "Skeletal Spear",
+      "level": 2,
+      "element": "earth/nature",
+      "text": "When a behavior card is revealed, you may exhaust this card if you are in the front sector. If you do, deal 15 damage and cancel the effects of that behavior card.",
+      "path": "cards/items/2/skeletal_spear.png"
+    },
+    {
+      "name": "Skeletal Spear",
+      "level": 3,
+      "element": "earth/nature",
+      "text": "When a behavior card is revealed, you may exhaust this card if you are in the front sector. If you do, deal 20 damage and cancel the effects of that behavior card.",
+      "path": "cards/items/3/skeletal_spear.png"
+    },
+    {
+      "name": "Woltyar Gauntlet",
+      "level": 1,
+      "element": "fire/nature",
+      "text": "Heart: If you paid with a spade, increase the damage the attack deals by 2.",
+      "path": "cards/items/1/woltyar_gauntlet.png"
+    },
+    {
+      "name": "Woltyar Gauntlet",
+      "level": 2,
+      "element": "fire/nature",
+      "text": "Heart: If you paid with a spade, increase the damage the attack deals by 4.",
+      "path": "cards/items/2/woltyar_gauntlet.png"
+    },
+    {
+      "name": "Woltyar Gauntlet",
+      "level": 3,
+      "element": "fire/nature",
+      "text": "Heart: If you paid with a spade, increase the damage the attack deals by 6.",
+      "path": "cards/items/3/woltyar_gauntlet.png"
+    },
+    {
+      "name": "Wristbow",
+      "level": 1,
+      "element": "ice/nature",
+      "text": "Sun: If you paid with a diamond, deal 1 damage.",
+      "path": "cards/items/1/wristbow.png"
+    },
+    {
+      "name": "Wristbow",
+      "level": 2,
+      "element": "ice/nature",
+      "text": "Sun: If you paid with a diamond, deal 2 damage.",
+      "path": "cards/items/2/wristbow.png"
+    },
+    {
+      "name": "Wristbow",
+      "level": 3,
+      "element": "ice/nature",
+      "text": "Sun: If you paid with a diamond, deal 3 damage.",
+      "path": "cards/items/3/wristbow.png"
+    }
+  ]

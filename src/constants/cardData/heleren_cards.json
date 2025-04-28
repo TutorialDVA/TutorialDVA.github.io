@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Barrage of Bullets",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Spend any number of bullets to increase the damage this attack deals by 2 for each bullet spent this way.",
+        "path": "cards/playerCards/heleren/barrage_of_bullets.png",
+        "set": "S"
+    },
+    {
+        "name": "Barrel Roll",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 3 and then discard 2 cards from your hand.",
+        "path": "cards/playerCards/heleren/barrel_roll.png",
+        "set": "C2"
+    },
+    {
+        "name": "Blinding Fire",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may spend 2 bullets to inflict blind.",
+        "path": "cards/playerCards/heleren/blinding_fire.png",
+        "set": "B2"
+    },
+    {
+        "name": "Bombardment",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may spend a bullet. If you do, confuse the monster or increase the struggle this maneuver removes by 2.",
+        "path": "cards/playerCards/heleren/bombardment.png",
+        "set": "S"
+    },
+    {
+        "name": "Breath Control",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your discard pile for a Red Diamond and place it on top of your deck.",
+        "path": "cards/playerCards/heleren/breath_control.png",
+        "set": "C1"
+    },
+    {
+        "name": "Bullet Surge",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Blue Diamond + Black Diamond: Spend any number of bullets. If you do, choose a player to draw 1 for each bullet spent this way.",
+        "path": "cards/playerCards/heleren/bullet_surge.png",
+        "set": "B1"
+    },
+    {
+        "name": "Camouflage",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Stealth.",
+        "path": "cards/playerCards/heleren/camouflage.png",
+        "set": "E1"
+    },
+    {
+        "name": "Cannonball",
+        "cost": 4,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "You may spend 3 bullets. If you do, stun the monster and increase the damage this attack deals by 4. Another player can generate stamina to help you pay for this card.",
+        "path": "cards/playerCards/heleren/cannonball.png",
+        "set": "S"
+    },
+    {
+        "name": "Cooldown",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Search your discard pile for up to 2 Red Diamond and shuffle them into your deck.",
+        "path": "cards/playerCards/heleren/cooldown.png",
+        "set": "C1"
+    },
+    {
+        "name": "Counter Measure",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. If you avoid attrition damage this turn, search your discard pile for up to 2 cards of your choice and add them to your hand.",
+        "path": "cards/playerCards/heleren/counter_measure.png",
+        "set": "E2"
+    },
+    {
+        "name": "Cover Fire",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. When another player would suffer attrition damage, you may discard this card from your hand to prevent that damage.",
+        "path": "cards/playerCards/heleren/cover_fire.png",
+        "set": "S"
+    },
+    {
+        "name": "Cycle of Bullets",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When you discard this card to generate stamina for a Red Diamond, reload 1.",
+        "path": "cards/playerCards/heleren/cycle_of_bullets.png",
+        "set": "D1"
+    },
+    {
+        "name": "Diversion",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Choose another player to draw 1. You may spend a bullet. If you do, that player draws 2 instead.",
+        "path": "cards/playerCards/heleren/diversion.png",
+        "set": "S"
+    },
+    {
+        "name": "Exertion",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. When you discard this card to generate stamina for a Red Diamond, it generates 2 stamina.",
+        "path": "cards/playerCards/heleren/exertion.png",
+        "set": "S"
+    },
+    {
+        "name": "Explosive Shot",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Remove 1 struggle. You may spend 2 bullets. If you do, this attack inflicts vulnerable.",
+        "path": "cards/playerCards/heleren/explosive_shot.png",
+        "set": "E2"
+    },
+    {
+        "name": "Fire Cascade",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Reclaim: Red Diamond, Red Diamond.",
+        "path": "cards/playerCards/heleren/fire_cascade.png",
+        "set": "D1"
+    },
+    {
+        "name": "Gunfire",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may spend a bullet to increase the damage this attack deals by 3.",
+        "path": "cards/playerCards/heleren/gunfire.png",
+        "set": "S"
+    },
+    {
+        "name": "Infallible Aim",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Your weapon gets +3 damage until the end of this turn. If your bullet track level is 3, your weapon gets +5 damage instead.",
+        "path": "cards/playerCards/heleren/infallible_aim.png",
+        "set": "D2"
+    },
+    {
+        "name": "Line of Fire",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. At the start of your movement phase, if you have 7 cards or more in your hand, you may reveal this card from your hand. If you do, your weapon gets +3 damage until the end of the turn.",
+        "path": "cards/playerCards/heleren/line_of_fire.png",
+        "set": "C2"
+    },
+    {
+        "name": "Long Range",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "The next Red Diamond you play this turn gains stealth. While this card is the top card of your discard pile, prevent any attrition damage you would suffer.",
+        "path": "cards/playerCards/heleren/long_range.png",
+        "set": "S"
+    },
+    {
+        "name": "Negation",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When a behavior card is revealed, you may discard this card from your hand and spend a bullet in order to cancel the effects of that card.",
+        "path": "cards/playerCards/heleren/negation.png",
+        "set": "S"
+    },
+    {
+        "name": "Not This Time!",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you reveal an attrition card, you may reveal this card from your hand and spend a bullet in order to gain a defense token (max: 1 per turn).",
+        "path": "cards/playerCards/heleren/not_this_time.png",
+        "set": "S"
+    },
+    {
+        "name": "Pressing Shot",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. If your bullet track level is 1 or higher, draw 2 instead.",
+        "path": "cards/playerCards/heleren/pressing_shot.png",
+        "set": "S"
+    },
+    {
+        "name": "Prompt Answer",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When a behavior card is revealed, you may discard this card from your hand to reload 2.",
+        "path": "cards/playerCards/heleren/prompt_answer.png",
+        "set": "D2"
+    },
+    {
+        "name": "Prompt Jump",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you would suffer damage, you may discard this card from your hand to prevent that damage.",
+        "path": "cards/playerCards/heleren/prompt_jump.png",
+        "set": "S"
+    },
+    {
+        "name": "Prompt Reflexes",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1.",
+        "path": "cards/playerCards/heleren/prompt_reflexes.png",
+        "set": "S"
+    },
+    {
+        "name": "Quick Reload",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Reload 1.",
+        "path": "cards/playerCards/heleren/quick_reload.png",
+        "set": "S"
+    },
+    {
+        "name": "Quick Shot",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "When you discard this card from your hand, reload 1 or deal your base weapon damage.",
+        "path": "cards/playerCards/heleren/quick_shot.png",
+        "set": "A1"
+    },
+    {
+        "name": "Ranged",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. While this card is the top card of your discard pile, it counts as a Yellow Diamond in your sequence for the attrition check.",
+        "path": "cards/playerCards/heleren/ranged.png",
+        "set": "S"
+    },
+    {
+        "name": "Rapid Ignition",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may spend a bullet to search your discard pile for a Red Diamond and place it on top of your deck.",
+        "path": "cards/playerCards/heleren/rapid_ignition.png",
+        "set": "S"
+    },
+    {
+        "name": "Ready to Shine!",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Discard any number of cards from your hand and then draw until you have 3.",
+        "path": "cards/playerCards/heleren/ready_to_shine.png",
+        "set": "S"
+    },
+    {
+        "name": "Recharging",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Reload 2.",
+        "path": "cards/playerCards/heleren/recharging.png",
+        "set": "S"
+    },
+    {
+        "name": "Replenishment",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "At the end of your action phase, reload X where X is the number of bullets you spent this turn.",
+        "path": "cards/playerCards/heleren/replenishment.png",
+        "set": "A2"
+    },
+    {
+        "name": "Repositioning",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Scissors: You may shuffle all Red Diamond from your discard pile into your deck.",
+        "path": "cards/playerCards/heleren/repositioning.png",
+        "set": "S"
+    },
+    {
+        "name": "Strafing",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. You may spend a bullet to deal 3 damage. If you do, you may immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/heleren/strafing.png",
+        "set": "S"
+    },
+    {
+        "name": "Strategic Support",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may choose a player to discard a Black Diamond from their hand. If they do, you reload 2.",
+        "path": "cards/playerCards/heleren/strategic_support.png",
+        "set": "S"
+    },
+    {
+        "name": "Suppressive Fire",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Reduce the stamina cost of the next card you play by 1.",
+        "path": "cards/playerCards/heleren/suppressive_fire.png",
+        "set": "B1"
+    },
+    {
+        "name": "Swift Deflection",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you discard this card from your hand, draw 1.",
+        "path": "cards/playerCards/heleren/swift_deflection.png",
+        "set": "S"
+    },
+    {
+        "name": "Swift Reload",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Reload 1. If you have another Yellow Diamond in your sequence, reload 2 instead.",
+        "path": "cards/playerCards/heleren/swift_reload.png",
+        "set": "E1"
+    },
+    {
+        "name": "Tactical Reload",
+        "cost": 2,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Reload 3.",
+        "path": "cards/playerCards/heleren/tactical_reload.png",
+        "set": "S"
+    },
+    {
+        "name": "Target Acquisition",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Search your deck for a Black Diamond and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/heleren/target_acquisition.png",
+        "set": "A1"
+    },
+    {
+        "name": "Thunderous Shot",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Spend any number of bullets. For each bullet spent this way, draw 1 and increase the struggle this maneuver removes by 1.",
+        "path": "cards/playerCards/heleren/thunderous_shot.png",
+        "set": "B2"
+    },
+    {
+        "name": "Vanguard",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may reveal a Blue Diamond from your hand. If you do, draw 2.",
+        "path": "cards/playerCards/heleren/vanguard.png",
+        "set": "A2"
+    }
+]

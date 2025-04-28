@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Airblade",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain. Remove 1 struggle.",
+        "path": "cards/playerCards/karah/airblade.png",
+        "set": "S"
+    },
+    {
+        "name": "Backstab",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Stealth. When you overrun the monster, you may discard this card from your hand to deal 4 damage.",
+        "path": "cards/playerCards/karah/backstab.png",
+        "set": "S"
+    },
+    {
+        "name": "Blade Charge",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Your weapon gets +2 damage until the end of this turn.",
+        "path": "cards/playerCards/karah/blade_charge.png",
+        "set": "E2"
+    },
+    {
+        "name": "Blade Rush",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you suffer ≋, you may discard this card from your hand to immediately overrun the monster and deal 2 damage.",
+        "path": "cards/playerCards/karah/blade_rush.png",
+        "set": "E1"
+    },
+    {
+        "name": "Crescent Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain. Increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/karah/crescent_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Cross Over",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "When you discard this card from your hand to generate stamina for a movement, you may overrun the monster instead of moving. If you do, remove 1 struggle.",
+        "path": "cards/playerCards/karah/cross_over.png",
+        "set": "S"
+    },
+    {
+        "name": "Cut Through",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "You may immediately overrun the monster. If you do, draw 1.",
+        "path": "cards/playerCards/karah/cut_through.png",
+        "set": "S"
+    },
+    {
+        "name": "Dance Step",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. If you draw a ⚔ this way, draw 1 additional card.",
+        "path": "cards/playerCards/karah/dance_step.png",
+        "set": "B1"
+    },
+    {
+        "name": "Dancing",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1 for each ⚔ in your sequence (max draw: 3). ✂: Increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/karah/dancing.png",
+        "set": "S"
+    },
+    {
+        "name": "Dancing Shield",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain. This card counts as ⚔ for battle dance and retaliate.",
+        "path": "cards/playerCards/karah/dancing_shield.png",
+        "set": "C2"
+    },
+    {
+        "name": "Deny",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you reveal an attrition card, you may discard this card from your hand to discard that attrition card and reveal another one instead.",
+        "path": "cards/playerCards/karah/deny.png",
+        "set": "S"
+    },
+    {
+        "name": "Disengage",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "When the monster changes its orientation, you may discard this card from your hand to draw up to your hand size limit.",
+        "path": "cards/playerCards/karah/disengage.png",
+        "set": "S"
+    },
+    {
+        "name": "Divert",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 2,
+        "text": "Assist. When a behavior card is revealed, you may discard this card from your hand to immediately overrun the monster.",
+        "path": "cards/playerCards/karah/divert.png",
+        "set": "S"
+    },
+    {
+        "name": "Double Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "This card counts as ⚔⚔ for battle dance. ✂: Draw 1.",
+        "path": "cards/playerCards/karah/double_strike.png",
+        "set": "C2"
+    },
+    {
+        "name": "Echoing Blades",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 2 and then discard a card from your hand.",
+        "path": "cards/playerCards/karah/echoing_blades.png",
+        "set": "S"
+    },
+    {
+        "name": "Endless Strike",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/karah/endless_strike.png",
+        "set": "B1"
+    },
+    {
+        "name": "Evasive Dance",
+        "cost": 0,
+        "color": "green",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Search your discard pile for up to 2 ⚔ and shuffle them into your deck.",
+        "path": "cards/playerCards/karah/evasive_dance.png",
+        "set": "D1"
+    },
+    {
+        "name": "Fade",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Stealth. ✂: Draw 1 and increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/karah/fade.png",
+        "set": "D1"
+    },
+    {
+        "name": "Fighting Spirit",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "You may suffer ≋. If you do, draw 2 or remove 2 struggle.",
+        "path": "cards/playerCards/karah/fighting_spirit.png",
+        "set": "E2"
+    },
+    {
+        "name": "Finesse",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. ✂: Draw 2 instead.",
+        "path": "cards/playerCards/karah/finesse.png",
+        "set": "S"
+    },
+    {
+        "name": "Halfmoon",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Deal your weapon damage and draw 1.",
+        "path": "cards/playerCards/karah/halfmoon.png",
+        "set": "S"
+    },
+    {
+        "name": "Iron Hedge",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "When you would suffer ≋, you may discard this card from your hand to halve that damage and draw 1.",
+        "path": "cards/playerCards/karah/iron_henge.png",
+        "set": "E1"
+    },
+    {
+        "name": "Lightning Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If the top card of your discard pile is a ⚔, you may play that card as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/karah/lightning_strike.png",
+        "set": "A2"
+    },
+    {
+        "name": "Maelstrom",
+        "cost": 2,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "⚔⚔: The next time you deal damage through battle dance this turn, double that damage.",
+        "path": "cards/playerCards/karah/maelstrom.png",
+        "set": "B2"
+    },
+    {
+        "name": "Natural Agility",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase your sequence limit by 1 this turn. ⚔: Draw 1.",
+        "path": "cards/playerCards/karah/natural_agility.png",
+        "set": "S"
+    },
+    {
+        "name": "Offensive Attitude",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When another player plays a ⚔ in their sequence, you may discard this card from your hand to search your deck for a ⚔ and add it to your hand. Then reshuffle your deck.",
+        "path": "cards/playerCards/karah/offensive_attitude.png",
+        "set": "S"
+    },
+    {
+        "name": "Outweigh",
+        "cost": 0,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Increase your sequence limit by 1 this turn. ✂: Draw 1.",
+        "path": "cards/playerCards/karah/outweigh.png",
+        "set": "B2"
+    },
+    {
+        "name": "Overture",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "If you paid with a ⚔, draw 3.",
+        "path": "cards/playerCards/karah/overture.png",
+        "set": "A2"
+    },
+    {
+        "name": "Perfection",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Draw 1. If that card is a ⚔, you may play it as the next card in your sequence without paying its stamina cost.",
+        "path": "cards/playerCards/karah/perfection.png",
+        "set": "S"
+    },
+    {
+        "name": "Piercing Strike",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain. You may immediately overrun the monster.",
+        "path": "cards/playerCards/karah/piercing_strike.png",
+        "set": "S"
+    },
+    {
+        "name": "Reactive Defense",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "When you suffer ≋, you may discard this card from your hand to immediately overrun the monster and draw 1.",
+        "path": "cards/playerCards/karah/reactive_defense.png",
+        "set": "C1"
+    },
+    {
+        "name": "Returning Blade",
+        "cost": 0,
+        "color": "red",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Assist. Reclaim: ⚔⚔⚔.",
+        "path": "cards/playerCards/karah/returning_blade.png",
+        "set": "A1"
+    },
+    {
+        "name": "Rising Moon",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may draw 1 or increase the struggle this maneuver removes by 1. ✂: Your weapon gets +1 damage until the end of this turn for each card with stealth in your sequence.",
+        "path": "cards/playerCards/karah/rising_moon.png",
+        "set": "D2"
+    },
+    {
+        "name": "Run Through",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "You may immediately overrun the monster.",
+        "path": "cards/playerCards/karah/run_through.png",
+        "set": "S"
+    },
+    {
+        "name": "Scythe",
+        "cost": 1,
+        "color": "red",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Chain. Remove 1 struggle.",
+        "path": "cards/playerCards/karah/scythe.png",
+        "set": "S"
+    },
+    {
+        "name": "Shadow Step",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Reclaim: ⚔⚔. You may immediately move without paying any stamina cost.",
+        "path": "cards/playerCards/karah/shadow_step.png",
+        "set": "S"
+    },
+    {
+        "name": "Shadowstrike",
+        "cost": 0,
+        "color": "blue",
+        "is_aggro": false,
+        "stamina": 1,
+        "text": "Your cards gain stealth until the end of the turn. When you overrun the monster, you may discard this card from your hand to draw 2.",
+        "path": "cards/playerCards/karah/shadowstrike.png",
+        "set": "S"
+    },
+    {
+        "name": "Slice",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Chain ⚔.",
+        "path": "cards/playerCards/karah/slice.png",
+        "set": "S"
+    },
+    {
+        "name": "Spinning",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Chain ⚔. ⚔⚔: Gain a defense token.",
+        "path": "cards/playerCards/karah/spinning.png",
+        "set": "C1"
+    },
+    {
+        "name": "Swing",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Assist. Increase your sequence limit by 1 this turn.",
+        "path": "cards/playerCards/karah/swing.png",
+        "set": "S"
+    },
+    {
+        "name": "Twin Blades",
+        "cost": 1,
+        "color": "blue",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "Chain ⚔. When you discard this card from your hand, deal your weapon damage.",
+        "path": "cards/playerCards/karah/twin_blades.png",
+        "set": "A1"
+    },
+    {
+        "name": "Twist",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain ⚔. Draw 1.",
+        "path": "cards/playerCards/karah/twist.png",
+        "set": "S"
+    },
+    {
+        "name": "Unseen",
+        "cost": 1,
+        "color": "green",
+        "is_aggro": true,
+        "stamina": 1,
+        "text": "Chain ⚔. Reclaim: Start your turn in the same sector as another player.",
+        "path": "cards/playerCards/karah/unseen.png",
+        "set": "D2"
+    },
+    {
+        "name": "Wall of Blades",
+        "cost": 1,
+        "color": "yellow",
+        "is_aggro": true,
+        "stamina": 2,
+        "text": "If you have 3 cards or more in your sequence, you can play this card without paying its stamina cost.",
+        "path": "cards/playerCards/karah/wall_of_blades.png",
+        "set": "S"
+    }
+]
